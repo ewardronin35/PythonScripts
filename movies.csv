@@ -1,0 +1,501 @@
+Title,Genre,Release Year,Rating
+Inglourious Basterds,Sci-Fi,1982,7.3
+Interstellar,Fantasy,1979,8.1
+Ghostbusters,Drama,1994,9.1
+Saving Private Ryan,Sci-Fi,1971,9.1
+Top Gun,Animation,1985,8.6
+The Matrix,Drama,1987,9.3
+Frozen,Animation,2008,8.5
+The Matrix,Crime,2019,9.0
+Blade Runner,Crime,1995,6.9
+1917,Romance,2008,8.7
+Eternal Sunshine of the Spotless Mind,Crime,2017,8.5
+Star Wars,Adventure,1990,8.1
+The Incredibles,Fantasy,1987,6.5
+Shrek,Crime,2014,5.3
+Indiana Jones and the Last Crusade,Animation,2015,8.3
+American Beauty,Romance,1990,5.9
+The Wolf of Wall Street,Fantasy,2021,7.4
+Titanic,Action,1979,5.2
+The Wolf of Wall Street,Crime,1978,5.5
+Frozen,Adventure,2018,8.8
+Star Wars,Sci-Fi,2010,6.4
+Inglourious Basterds,Comedy,1991,5.0
+Doctor Strange,Sci-Fi,2021,5.3
+The Exorcist,Horror,2023,5.6
+The Big Lebowski,Crime,1974,10.0
+Avengers: Endgame,Romance,1974,5.9
+Casino Royale,Horror,1983,9.9
+Die Hard,Drama,1987,8.7
+The Godfather,Animation,1997,6.2
+The Avengers,Sci-Fi,2011,7.9
+The Departed,Crime,1985,8.1
+Psycho,Adventure,2003,6.6
+The Notebook,Horror,2004,6.1
+Slumdog Millionaire,Animation,2005,8.5
+Toy Story,Adventure,1994,6.2
+The Terminator,Action,2023,6.9
+Forrest Gump,Sci-Fi,2022,7.6
+The Sixth Sense,Thriller,1972,8.6
+The Prestige,Animation,1994,9.3
+The Dark Knight Rises,Sci-Fi,1995,5.9
+The Dark Knight,Adventure,1999,6.2
+The King's Speech,Crime,2022,6.0
+Harry Potter and the Sorcerer's Stone,Sci-Fi,1979,9.3
+Inception,Thriller,1985,8.1
+Iron Man,Horror,2020,6.1
+Spider-Man,Thriller,2019,8.7
+Saving Private Ryan,Animation,1980,7.2
+Avatar,Fantasy,2008,7.0
+American Beauty,Sci-Fi,1977,7.5
+La La Land,Fantasy,2001,7.1
+A Beautiful Mind,Drama,2007,9.9
+The Prestige,Thriller,2000,7.2
+Fight Club,Drama,2000,6.2
+The Breakfast Club,Horror,1984,6.9
+Joker,Horror,2007,5.3
+Se7en,Comedy,1970,7.3
+Scarface,Adventure,2005,9.6
+Eternal Sunshine of the Spotless Mind,Romance,2011,6.2
+Slumdog Millionaire,Thriller,1990,9.6
+Schindler's List,Thriller,1989,8.1
+The Revenant,Drama,2014,5.9
+Get Out,Romance,2020,7.6
+Mad Max: Fury Road,Action,1995,5.8
+The Departed,Fantasy,1993,6.2
+Jaws,Drama,1970,5.5
+The Dark Knight,Romance,2022,5.5
+The Shawshank Redemption,Romance,2007,8.9
+The Truman Show,Action,1990,9.6
+Wonder Woman,Sci-Fi,1983,9.8
+Back to the Future,Thriller,1991,5.2
+The Godfather,Comedy,1992,7.6
+L.A. Confidential,Horror,1978,6.7
+Gravity,Fantasy,2009,8.4
+Full Metal Jacket,Adventure,2016,9.7
+The Green Mile,Fantasy,1988,6.4
+Ghostbusters,Drama,1982,8.4
+Taxi Driver,Drama,1999,9.2
+Django Unchained,Romance,1987,9.9
+La La Land,Animation,2004,7.7
+The Incredibles,Action,2022,7.6
+Ferris Bueller's Day Off,Drama,1988,9.7
+Indiana Jones and the Last Crusade,Adventure,1990,7.7
+Iron Man,Romance,1980,6.7
+Gone Girl,Crime,2008,6.7
+Saving Private Ryan,Action,2022,9.1
+The Imitation Game,Action,1993,9.9
+L.A. Confidential,Animation,1985,5.7
+Gladiator,Sci-Fi,2009,8.6
+Slumdog Millionaire,Horror,1971,7.6
+Inception,Drama,1994,6.7
+Doctor Strange,Romance,1971,9.8
+Se7en,Action,2023,9.3
+The Shining,Comedy,1988,8.9
+Ghostbusters,Action,1995,9.8
+Full Metal Jacket,Action,2005,8.2
+Heat,Comedy,1981,8.1
+Saving Private Ryan,Fantasy,1998,6.5
+Guardians of the Galaxy,Action,2007,9.9
+The Usual Suspects,Drama,1970,6.1
+Mad Max: Fury Road,Sci-Fi,2006,7.7
+The Lord of the Rings,Animation,2000,9.1
+The Imitation Game,Horror,1986,7.6
+Top Gun,Romance,1975,8.8
+The Grand Budapest Hotel,Horror,1991,9.3
+Full Metal Jacket,Adventure,2019,5.6
+The Notebook,Drama,1976,8.0
+Scarface,Action,1996,6.6
+The Grand Budapest Hotel,Thriller,1997,5.4
+The Terminator,Drama,1980,6.5
+Skyfall,Adventure,1983,7.0
+Die Hard,Thriller,2010,6.0
+Wonder Woman,Thriller,1984,8.1
+Se7en,Animation,2010,8.7
+Joker,Adventure,2022,9.2
+Rocky,Adventure,2001,8.7
+The Silence of the Lambs,Adventure,1999,7.7
+The Notebook,Sci-Fi,1998,9.8
+The Usual Suspects,Thriller,1986,5.0
+Alien,Romance,1996,5.4
+The Departed,Sci-Fi,1998,5.3
+The Terminator,Sci-Fi,1979,8.8
+Taxi Driver,Thriller,1982,6.3
+Gone Girl,Horror,2004,9.5
+Gone Girl,Sci-Fi,1979,7.0
+The Silence of the Lambs,Drama,1976,9.9
+Harry Potter and the Sorcerer's Stone,Romance,1988,8.4
+Avatar,Romance,1972,5.5
+Ferris Bueller's Day Off,Comedy,2013,8.5
+The Notebook,Comedy,1973,8.3
+Wonder Woman,Adventure,1991,9.7
+Wonder Woman,Sci-Fi,2001,8.6
+Die Hard,Crime,1976,7.6
+American Beauty,Sci-Fi,2003,8.2
+Apocalypse Now,Animation,1978,5.1
+The King's Speech,Romance,1982,6.3
+The Matrix,Animation,2013,7.1
+Back to the Future,Comedy,1997,8.1
+Saving Private Ryan,Horror,1993,8.3
+Top Gun,Adventure,2001,7.1
+Platoon,Adventure,1978,9.7
+Skyfall,Comedy,1982,9.4
+Jurassic Park,Fantasy,1995,9.6
+The Grand Budapest Hotel,Crime,1985,8.0
+Jurassic Park,Animation,2023,7.0
+Jurassic Park,Thriller,1975,7.7
+Apocalypse Now,Comedy,2009,5.8
+Citizen Kane,Comedy,1992,5.9
+Spider-Man,Drama,1978,6.9
+Star Wars,Thriller,1985,7.2
+Die Hard,Romance,2016,6.2
+Harry Potter and the Sorcerer's Stone,Adventure,1990,9.5
+Frozen,Animation,2011,7.7
+Frozen,Thriller,1976,8.8
+Harry Potter and the Sorcerer's Stone,Adventure,2007,5.0
+The Wolf of Wall Street,Adventure,2002,5.3
+The Revenant,Sci-Fi,2023,6.2
+The Shawshank Redemption,Comedy,2006,5.1
+Fight Club,Thriller,1980,8.5
+The Hangover,Fantasy,1993,5.5
+Star Wars,Comedy,2016,8.6
+The Green Mile,Action,1976,7.3
+Toy Story,Crime,2003,8.6
+Inglourious Basterds,Action,1990,8.8
+Avengers: Endgame,Comedy,2003,9.6
+Interstellar,Romance,1997,9.9
+Citizen Kane,Romance,2000,8.3
+The Imitation Game,Thriller,1982,5.8
+Moana,Animation,2006,5.7
+The Silence of the Lambs,Horror,1986,6.6
+The Usual Suspects,Romance,2016,6.0
+No Country for Old Men,Adventure,2018,9.9
+The Sixth Sense,Fantasy,1993,5.9
+Goodfellas,Fantasy,2016,7.8
+The Incredibles,Romance,1992,7.9
+Taxi Driver,Comedy,2004,6.5
+Eternal Sunshine of the Spotless Mind,Action,1999,7.6
+Iron Man,Animation,2002,6.5
+A Beautiful Mind,Romance,2022,10.0
+Moana,Drama,2013,6.1
+No Country for Old Men,Drama,1986,6.9
+The Godfather,Fantasy,1986,8.5
+Apocalypse Now,Adventure,2016,9.5
+The Grand Budapest Hotel,Adventure,2000,7.1
+Die Hard,Crime,2008,9.1
+The Grand Budapest Hotel,Romance,2001,7.7
+Finding Nemo,Thriller,1990,9.5
+Slumdog Millionaire,Animation,1982,10.0
+Back to the Future,Crime,1985,6.4
+Interstellar,Drama,2010,7.7
+Django Unchained,Fantasy,2004,7.3
+L.A. Confidential,Crime,1999,9.1
+The Silence of the Lambs,Horror,2022,9.4
+Inception,Action,1990,6.1
+Top Gun,Drama,1991,9.6
+Gladiator,Adventure,1983,9.4
+12 Years a Slave,Drama,1995,7.1
+Ghostbusters,Romance,1999,7.3
+Interstellar,Action,1976,9.8
+The Prestige,Comedy,1972,6.1
+Scarface,Adventure,2020,9.4
+The Prestige,Sci-Fi,1972,5.6
+Joker,Animation,1992,7.4
+The Breakfast Club,Romance,2012,10.0
+Avatar,Crime,2003,9.1
+Alien,Animation,2023,6.5
+The Lord of the Rings,Drama,2012,8.6
+The Wolf of Wall Street,Sci-Fi,2023,7.9
+A Beautiful Mind,Sci-Fi,1990,9.3
+Jurassic Park,Fantasy,2007,6.0
+The Prestige,Crime,2021,9.0
+Moana,Horror,2010,9.0
+Schindler's List,Animation,2009,7.0
+The Grand Budapest Hotel,Sci-Fi,1975,7.6
+The Shining,Crime,2018,9.0
+Back to the Future,Crime,2012,7.8
+Citizen Kane,Fantasy,2013,5.8
+Joker,Adventure,1991,8.8
+The King's Speech,Comedy,2015,6.3
+The Breakfast Club,Fantasy,1978,7.7
+The Dark Knight,Thriller,1976,7.1
+Avatar,Fantasy,1999,9.7
+The Hurt Locker,Fantasy,1986,5.1
+Star Wars,Adventure,1993,7.9
+Get Out,Action,1994,7.2
+Psycho,Drama,1991,5.5
+Eternal Sunshine of the Spotless Mind,Romance,1971,9.8
+The Shawshank Redemption,Action,2018,9.1
+Finding Nemo,Sci-Fi,1995,8.3
+The Dark Knight Rises,Romance,1986,5.1
+Finding Nemo,Comedy,1977,5.9
+Skyfall,Adventure,1973,7.1
+The Green Mile,Horror,2008,5.1
+Get Out,Fantasy,2015,5.3
+Blade Runner,Sci-Fi,1992,5.7
+Finding Nemo,Horror,2016,8.1
+Jaws,Animation,2012,9.4
+Avengers: Endgame,Horror,1983,9.5
+Platoon,Horror,2020,5.4
+Braveheart,Thriller,1987,7.8
+The Lord of the Rings,Animation,2001,9.6
+Alien,Thriller,1978,7.2
+Joker,Romance,2016,7.4
+Saving Private Ryan,Crime,2017,8.8
+Star Wars,Fantasy,2010,5.2
+Goodfellas,Fantasy,2001,7.3
+The Social Network,Comedy,1983,9.1
+The Godfather,Action,2016,7.8
+Finding Nemo,Fantasy,2002,6.2
+Titanic,Drama,1988,9.8
+Spider-Man,Romance,2006,7.2
+Avatar,Adventure,1983,9.0
+La La Land,Thriller,1980,5.6
+Joker,Romance,1997,5.1
+The Matrix,Fantasy,1978,6.8
+The Wolf of Wall Street,Drama,2010,6.2
+Doctor Strange,Drama,1991,9.3
+The Dark Knight,Drama,1989,6.3
+Slumdog Millionaire,Fantasy,2023,8.1
+Citizen Kane,Romance,2011,6.0
+Scarface,Crime,1983,6.5
+Spider-Man,Thriller,1976,8.1
+Memento,Sci-Fi,1989,8.3
+The Hangover,Fantasy,1977,8.7
+Toy Story,Comedy,1985,9.0
+Get Out,Drama,1993,6.5
+Back to the Future,Fantasy,1995,5.6
+Star Wars,Animation,2009,8.2
+The Sixth Sense,Fantasy,1999,9.7
+Avatar,Adventure,1990,7.9
+Harry Potter and the Sorcerer's Stone,Animation,1997,9.7
+Inception,Animation,2021,8.8
+Doctor Strange,Crime,2013,8.0
+Psycho,Romance,1974,9.7
+Memento,Comedy,2014,5.1
+The Dark Knight Rises,Action,2015,5.7
+The Shawshank Redemption,Fantasy,2013,9.6
+The Lord of the Rings,Comedy,1970,5.3
+The Prestige,Thriller,1986,6.6
+Interstellar,Comedy,1975,5.8
+Fight Club,Fantasy,2009,7.3
+Inglourious Basterds,Adventure,1970,6.1
+Citizen Kane,Horror,1986,8.2
+Platoon,Sci-Fi,1999,6.7
+The Godfather,Romance,2021,9.7
+The Silence of the Lambs,Action,1982,5.9
+The Avengers,Comedy,2015,7.9
+Goodfellas,Horror,1993,5.4
+Slumdog Millionaire,Horror,1972,9.2
+The Great Gatsby,Horror,1999,9.5
+The Hangover,Drama,2017,9.5
+Joker,Romance,1982,9.2
+The Matrix,Thriller,2019,8.6
+The Lion King,Crime,2023,9.8
+Saving Private Ryan,Horror,1985,7.6
+Toy Story,Romance,2005,8.1
+Gravity,Crime,2014,8.0
+La La Land,Romance,1989,7.5
+Goodfellas,Romance,2023,9.4
+Deadpool,Comedy,2023,8.1
+Inception,Romance,1995,8.6
+The Revenant,Drama,2003,5.4
+The Great Gatsby,Drama,2015,7.7
+Gravity,Comedy,1974,8.2
+Taxi Driver,Horror,2011,6.6
+The Lion King,Thriller,2002,9.5
+Gladiator,Romance,1996,8.4
+Casino Royale,Romance,2012,6.2
+Gone Girl,Horror,2000,7.0
+The Incredibles,Action,1996,8.4
+Toy Story,Thriller,1982,6.0
+The Godfather,Crime,1976,8.7
+Spider-Man,Animation,1983,9.3
+Schindler's List,Adventure,2007,8.3
+The Godfather,Animation,2017,5.2
+The Prestige,Crime,2021,7.5
+The Shawshank Redemption,Sci-Fi,1972,8.1
+Joker,Sci-Fi,1973,6.4
+Moana,Horror,1975,8.4
+Finding Nemo,Crime,1992,6.8
+Citizen Kane,Animation,1995,5.3
+The Lord of the Rings,Fantasy,1992,7.8
+The Lord of the Rings,Sci-Fi,2004,9.7
+Avatar,Action,2014,7.2
+Apocalypse Now,Animation,2020,9.7
+Skyfall,Sci-Fi,1994,5.4
+No Country for Old Men,Romance,2023,9.3
+Guardians of the Galaxy,Drama,1973,8.3
+Citizen Kane,Drama,2022,8.2
+The Green Mile,Adventure,2019,9.5
+Top Gun,Action,1988,6.1
+The Great Gatsby,Sci-Fi,1974,6.8
+The Incredibles,Horror,2004,9.0
+Star Wars,Thriller,2023,7.0
+The Hurt Locker,Fantasy,1974,6.9
+The Godfather,Action,1971,6.7
+A Beautiful Mind,Sci-Fi,2002,7.3
+Ghostbusters,Adventure,1997,6.1
+Braveheart,Comedy,1980,9.6
+Braveheart,Crime,1972,6.5
+L.A. Confidential,Adventure,1998,8.5
+Titanic,Fantasy,2003,7.8
+Alien,Crime,1987,7.3
+The Lord of the Rings,Drama,1990,6.8
+The Lion King,Animation,1996,9.4
+Casino Royale,Action,1982,7.0
+Frozen,Horror,1971,6.0
+The Usual Suspects,Action,1976,9.1
+Guardians of the Galaxy,Animation,1988,7.4
+Spider-Man,Sci-Fi,1971,7.6
+Spider-Man,Action,1987,8.3
+Skyfall,Fantasy,2012,8.4
+Apocalypse Now,Sci-Fi,2001,9.3
+La La Land,Sci-Fi,1980,8.1
+Inglourious Basterds,Crime,2015,8.6
+The Big Lebowski,Drama,1989,6.2
+Interstellar,Animation,2021,6.5
+Skyfall,Comedy,1986,7.6
+Skyfall,Fantasy,2016,5.8
+Interstellar,Romance,1999,6.0
+Forrest Gump,Animation,2009,10.0
+Gladiator,Fantasy,1990,5.2
+1917,Comedy,2003,9.2
+Wonder Woman,Action,1982,8.0
+Doctor Strange,Action,2022,6.5
+Pulp Fiction,Romance,1974,6.6
+Braveheart,Romance,2002,8.6
+The Hurt Locker,Crime,1970,5.8
+Harry Potter and the Sorcerer's Stone,Fantasy,1989,5.3
+Blade Runner,Romance,1972,6.4
+Rocky,Crime,2019,7.8
+Finding Nemo,Comedy,1993,7.1
+Pulp Fiction,Animation,1975,9.5
+Goodfellas,Animation,2022,7.5
+The King's Speech,Comedy,2023,10.0
+Wonder Woman,Action,2005,7.5
+The Avengers,Horror,1970,5.5
+Saving Private Ryan,Action,1972,7.8
+Wonder Woman,Horror,2012,9.9
+The Grand Budapest Hotel,Comedy,1998,9.7
+Casino Royale,Romance,1987,6.8
+Braveheart,Drama,1991,9.0
+Avengers: Endgame,Sci-Fi,2009,10.0
+Inception,Sci-Fi,2007,5.7
+Indiana Jones and the Last Crusade,Adventure,1977,9.7
+The Big Lebowski,Sci-Fi,2020,6.4
+Scarface,Horror,1974,6.0
+Casino Royale,Action,1974,9.5
+Black Panther,Horror,2001,8.9
+Heat,Sci-Fi,1979,6.8
+Mad Max: Fury Road,Thriller,1989,7.5
+Blade Runner,Romance,2019,9.4
+Inglourious Basterds,Thriller,2005,5.1
+Braveheart,Adventure,2008,6.9
+The Matrix,Fantasy,1999,6.6
+Avatar,Drama,2021,7.4
+The Social Network,Sci-Fi,2006,8.8
+La La Land,Fantasy,2017,6.7
+Goodfellas,Fantasy,2023,9.3
+The Big Lebowski,Sci-Fi,1985,9.9
+Django Unchained,Action,2003,6.9
+Shrek,Thriller,2011,9.3
+Full Metal Jacket,Sci-Fi,1971,6.6
+The Exorcist,Animation,2013,7.4
+Iron Man,Drama,2000,6.4
+Heat,Action,2013,9.3
+The Sixth Sense,Adventure,1995,6.3
+12 Years a Slave,Fantasy,1979,6.5
+Casino Royale,Crime,1995,7.7
+Fight Club,Action,2011,8.8
+Mad Max: Fury Road,Fantasy,1988,7.7
+The Shawshank Redemption,Horror,1988,8.4
+L.A. Confidential,Horror,2010,6.0
+The Imitation Game,Adventure,1993,8.3
+Inception,Sci-Fi,1996,9.0
+Avengers: Endgame,Action,1997,6.2
+The Lion King,Romance,2022,7.6
+Moana,Thriller,2019,6.5
+Frozen,Sci-Fi,1989,5.8
+Iron Man,Sci-Fi,1975,6.2
+Saving Private Ryan,Adventure,1973,6.5
+Interstellar,Adventure,2008,9.8
+The Incredibles,Action,1981,7.0
+The Imitation Game,Drama,1987,8.9
+Fight Club,Drama,1978,6.8
+The Silence of the Lambs,Action,2021,9.9
+The Exorcist,Animation,1972,7.6
+The Dark Knight,Animation,2013,8.8
+The Dark Knight,Sci-Fi,2010,5.3
+Full Metal Jacket,Animation,1971,8.9
+The Silence of the Lambs,Crime,2013,7.9
+Citizen Kane,Romance,2006,5.7
+Django Unchained,Thriller,2000,5.2
+Rocky,Adventure,1996,6.9
+Moana,Adventure,1974,8.1
+Die Hard,Comedy,1991,8.3
+The Lion King,Romance,1976,9.6
+Black Panther,Comedy,2013,8.4
+Toy Story,Comedy,2005,8.0
+The Terminator,Crime,1994,7.3
+The Dark Knight Rises,Romance,2005,7.6
+The Avengers,Sci-Fi,1984,8.6
+The Pianist,Drama,2000,9.8
+Alien,Horror,2012,9.7
+The Social Network,Sci-Fi,2006,5.5
+Fight Club,Crime,1975,8.1
+Die Hard,Action,2010,5.5
+Inglourious Basterds,Drama,1997,6.1
+Forrest Gump,Fantasy,1980,5.8
+The Shining,Action,1981,6.6
+Indiana Jones and the Last Crusade,Animation,1978,5.7
+The Shining,Animation,1998,7.9
+The King's Speech,Horror,2009,9.3
+Star Wars,Comedy,2007,6.3
+The Wolf of Wall Street,Animation,1978,7.8
+The Big Lebowski,Sci-Fi,1974,8.0
+Taxi Driver,Comedy,1972,9.9
+The Matrix,Thriller,2010,7.6
+Interstellar,Drama,1981,7.8
+Rocky,Romance,2017,6.4
+The Terminator,Horror,1978,8.3
+The Godfather,Crime,1999,6.7
+The Avengers,Animation,2013,8.0
+Deadpool,Adventure,1976,7.3
+Inception,Comedy,2003,8.2
+No Country for Old Men,Thriller,1970,6.1
+Casino Royale,Animation,1982,7.7
+Avengers: Endgame,Animation,1988,5.4
+Skyfall,Fantasy,2006,7.2
+The Hurt Locker,Comedy,1982,5.1
+The Pianist,Thriller,2008,6.5
+Saving Private Ryan,Comedy,1999,7.4
+12 Years a Slave,Horror,2003,7.7
+Guardians of the Galaxy,Romance,2022,9.5
+The Imitation Game,Drama,1994,5.8
+The Lord of the Rings,Animation,1974,6.0
+The Hurt Locker,Adventure,1978,6.1
+Taxi Driver,Animation,2023,7.6
+L.A. Confidential,Comedy,2011,6.8
+The Revenant,Comedy,1971,6.1
+Ghostbusters,Sci-Fi,1978,7.5
+The Hurt Locker,Romance,1975,5.1
+The Shawshank Redemption,Adventure,1998,9.9
+Alien,Fantasy,2012,5.2
+Full Metal Jacket,Fantasy,1989,9.7
+Top Gun,Horror,1977,9.5
+Wonder Woman,Romance,2016,6.5
+12 Years a Slave,Sci-Fi,1978,6.5
+The Silence of the Lambs,Fantasy,1977,8.3
+The Grand Budapest Hotel,Crime,2003,8.6
+The Hangover,Drama,1986,5.5
+Saving Private Ryan,Sci-Fi,1990,9.8
+American Beauty,Action,2009,9.9
+The Breakfast Club,Action,1982,9.0
+Frozen,Thriller,2004,7.1
+Deadpool,Adventure,1978,7.0
+Parasite,Animation,2005,7.9
+The Big Lebowski,Romance,2010,7.3
+Pulp Fiction,Fantasy,2008,8.0
+Get Out,Animation,2012,8.3
+The Big Lebowski,Fantasy,1984,6.4

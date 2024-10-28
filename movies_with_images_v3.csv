@@ -1,0 +1,501 @@
+Title,Genre,Release Year,Rating,Image
+The Exorcist,Thriller,1996,7.0,poster_360.jpg
+The Usual Suspects,Action,1987,6.5,poster_104.jpg
+Titanic,Fantasy,1980,6.0,poster_60.jpg
+Platoon,Comedy,1974,10.0,poster_332.jpg
+Pulp Fiction,Crime,1991,9.0,poster_181.jpg
+Wonder Woman,Romance,1998,9.0,poster_494.jpg
+The Green Mile,Romance,2001,9.0,poster_395.jpg
+Pulp Fiction,Action,1990,7.0,poster_395.jpg
+The Hurt Locker,Fantasy,1983,6.0,poster_194.jpg
+The Lion King,Drama,2010,9.5,poster_145.jpg
+Avengers: Endgame,Romance,2020,9.0,poster_145.jpg
+The Revenant,Thriller,2009,6.0,poster_463.jpg
+1917,Sci-Fi,1980,7.5,poster_466.jpg
+Apocalypse Now,Horror,2005,8.5,poster_214.jpg
+Avatar,Crime,1974,6.0,poster_90.jpg
+The Social Network,Adventure,2017,8.0,poster_324.jpg
+Citizen Kane,Adventure,2002,9.5,poster_284.jpg
+Joker,Sci-Fi,2004,9.0,poster_303.jpg
+The Prestige,Comedy,1995,5.5,poster_59.jpg
+The Great Gatsby,Sci-Fi,2013,5.5,poster_251.jpg
+Eternal Sunshine of the Spotless Mind,Action,1987,7.0,poster_42.jpg
+The Green Mile,Horror,2016,6.5,poster_350.jpg
+The Dark Knight Rises,Sci-Fi,2021,8.5,poster_44.jpg
+The Sixth Sense,Action,1994,7.5,poster_256.jpg
+Spider-Man,Comedy,1994,7.5,poster_201.jpg
+Slumdog Millionaire,Horror,1970,7.5,poster_18.jpg
+Harry Potter and the Sorcerer's Stone,Thriller,1980,6.5,poster_95.jpg
+Braveheart,Sci-Fi,2021,9.0,poster_314.jpg
+Mad Max: Fury Road,Crime,1979,7.5,poster_367.jpg
+Guardians of the Galaxy,Adventure,1980,7.5,poster_161.jpg
+Scarface,Romance,2008,5.0,poster_247.jpg
+Blade Runner,Action,2003,10.0,poster_201.jpg
+Blade Runner,Sci-Fi,1992,7.5,poster_186.jpg
+Platoon,Comedy,2014,9.0,poster_411.jpg
+Joker,Adventure,1998,9.5,poster_214.jpg
+Inglourious Basterds,Crime,1978,9.0,poster_13.jpg
+Full Metal Jacket,Drama,2017,10.0,poster_465.jpg
+Die Hard,Drama,2015,5.5,poster_65.jpg
+Jurassic Park,Horror,2014,8.0,poster_30.jpg
+Platoon,Crime,1974,6.5,poster_328.jpg
+Taxi Driver,Horror,1975,9.5,poster_389.jpg
+The Breakfast Club,Animation,1982,10.0,poster_220.jpg
+The Truman Show,Horror,2009,7.5,poster_199.jpg
+Heat,Horror,2003,10.0,poster_420.jpg
+Joker,Thriller,2013,6.0,poster_331.jpg
+Alien,Adventure,1990,8.5,poster_43.jpg
+The Pianist,Adventure,1974,6.5,poster_137.jpg
+Alien,Crime,2012,7.5,poster_190.jpg
+Se7en,Horror,1980,6.5,poster_404.jpg
+Parasite,Crime,1997,9.0,poster_342.jpg
+The Avengers,Sci-Fi,1978,6.5,poster_333.jpg
+The Departed,Action,1996,5.5,poster_19.jpg
+The Prestige,Adventure,2003,9.0,poster_364.jpg
+The Grand Budapest Hotel,Horror,1982,6.0,poster_90.jpg
+The Revenant,Action,1983,5.5,poster_15.jpg
+Full Metal Jacket,Drama,2016,6.5,poster_15.jpg
+Get Out,Crime,1982,5.5,poster_479.jpg
+Inception,Horror,2022,8.5,poster_170.jpg
+Memento,Action,1986,9.5,poster_209.jpg
+Avatar,Thriller,2017,9.0,poster_314.jpg
+The Big Lebowski,Fantasy,1978,9.0,poster_308.jpg
+1917,Crime,2010,5.5,poster_325.jpg
+Alien,Sci-Fi,1988,10.0,poster_109.jpg
+Avatar,Drama,2021,5.5,poster_152.jpg
+Avatar,Romance,2008,7.5,poster_40.jpg
+Jurassic Park,Sci-Fi,1995,9.5,poster_283.jpg
+The Breakfast Club,Fantasy,2008,9.5,poster_202.jpg
+Moana,Action,2016,7.5,poster_441.jpg
+The Lord of the Rings,Animation,1972,5.5,poster_329.jpg
+American Beauty,Horror,2008,6.0,poster_222.jpg
+Harry Potter and the Sorcerer's Stone,Drama,2001,5.5,poster_153.jpg
+The Silence of the Lambs,Adventure,2002,9.0,poster_52.jpg
+The Exorcist,Animation,1975,7.0,poster_494.jpg
+The Silence of the Lambs,Action,2000,10.0,poster_104.jpg
+The Lord of the Rings,Fantasy,2014,8.5,poster_179.jpg
+Iron Man,Comedy,1976,6.5,poster_134.jpg
+The Big Lebowski,Horror,2019,5.0,poster_163.jpg
+The Hangover,Thriller,1994,6.5,poster_92.jpg
+Platoon,Comedy,1996,5.0,poster_243.jpg
+Get Out,Sci-Fi,2000,10.0,poster_250.jpg
+The Hurt Locker,Animation,2001,5.5,poster_101.jpg
+Titanic,Sci-Fi,1971,5.5,poster_340.jpg
+Get Out,Animation,1993,7.5,poster_482.jpg
+The Incredibles,Fantasy,1988,7.5,poster_128.jpg
+Alien,Crime,1971,7.0,poster_359.jpg
+The King's Speech,Thriller,1975,5.0,poster_265.jpg
+Joker,Action,2018,9.5,poster_60.jpg
+Platoon,Comedy,2018,9.0,poster_48.jpg
+Inception,Thriller,1977,6.0,poster_355.jpg
+The Shining,Comedy,2004,8.0,poster_114.jpg
+Joker,Animation,2018,5.5,poster_322.jpg
+Wonder Woman,Action,1977,5.5,poster_274.jpg
+The Incredibles,Horror,1972,7.0,poster_223.jpg
+Finding Nemo,Romance,2021,5.0,poster_363.jpg
+Schindler's List,Romance,2002,9.0,poster_390.jpg
+Indiana Jones and the Last Crusade,Animation,1971,9.5,poster_193.jpg
+The Dark Knight Rises,Thriller,1987,5.0,poster_216.jpg
+Titanic,Fantasy,2023,6.0,poster_77.jpg
+The Truman Show,Crime,1985,7.5,poster_65.jpg
+Inglourious Basterds,Romance,1993,8.5,poster_336.jpg
+Toy Story,Action,1977,6.5,poster_315.jpg
+The Imitation Game,Sci-Fi,1973,5.0,poster_128.jpg
+The Green Mile,Sci-Fi,1991,10.0,poster_304.jpg
+The Big Lebowski,Crime,1980,8.5,poster_96.jpg
+Rocky,Action,2010,6.5,poster_485.jpg
+Casino Royale,Drama,2010,6.0,poster_379.jpg
+The Grand Budapest Hotel,Drama,2007,10.0,poster_142.jpg
+The Revenant,Thriller,2009,6.0,poster_240.jpg
+Apocalypse Now,Action,2023,9.5,poster_169.jpg
+Mad Max: Fury Road,Thriller,2021,6.5,poster_411.jpg
+Braveheart,Sci-Fi,1984,7.5,poster_481.jpg
+The Lion King,Adventure,1995,7.5,poster_33.jpg
+The Lion King,Drama,2014,6.5,poster_448.jpg
+Blade Runner,Sci-Fi,1992,8.5,poster_46.jpg
+Back to the Future,Romance,1971,9.5,poster_338.jpg
+Gravity,Romance,1994,7.5,poster_481.jpg
+Se7en,Action,2020,6.5,poster_424.jpg
+The Grand Budapest Hotel,Romance,2021,8.5,poster_443.jpg
+Star Wars,Horror,1982,9.5,poster_97.jpg
+Harry Potter and the Sorcerer's Stone,Sci-Fi,1979,10.0,poster_235.jpg
+Avatar,Sci-Fi,1991,7.0,poster_479.jpg
+The Avengers,Animation,2010,9.0,poster_458.jpg
+The Hangover,Adventure,2005,10.0,poster_17.jpg
+Alien,Crime,1992,6.5,poster_249.jpg
+Finding Nemo,Drama,1970,6.5,poster_63.jpg
+Full Metal Jacket,Fantasy,2013,7.0,poster_146.jpg
+The Usual Suspects,Comedy,1977,9.5,poster_27.jpg
+La La Land,Comedy,2008,9.5,poster_329.jpg
+The Sixth Sense,Animation,1984,9.0,poster_31.jpg
+Saving Private Ryan,Romance,1999,9.0,poster_216.jpg
+The Lion King,Horror,1997,8.5,poster_233.jpg
+The Grand Budapest Hotel,Animation,1970,5.5,poster_97.jpg
+The Dark Knight,Drama,2001,9.5,poster_55.jpg
+The Wolf of Wall Street,Action,2018,10.0,poster_192.jpg
+Avatar,Drama,1986,6.0,poster_409.jpg
+The Lord of the Rings,Action,2019,6.5,poster_318.jpg
+Saving Private Ryan,Drama,2019,10.0,poster_55.jpg
+The Matrix,Adventure,2016,6.0,poster_270.jpg
+Memento,Fantasy,2002,10.0,poster_339.jpg
+Back to the Future,Crime,1988,9.0,poster_349.jpg
+1917,Fantasy,1986,5.0,poster_480.jpg
+Titanic,Thriller,2011,5.5,poster_318.jpg
+Toy Story,Sci-Fi,1976,9.5,poster_196.jpg
+L.A. Confidential,Sci-Fi,1977,6.0,poster_344.jpg
+The Social Network,Animation,2019,5.5,poster_285.jpg
+American Beauty,Sci-Fi,1974,6.5,poster_368.jpg
+Guardians of the Galaxy,Fantasy,1986,9.0,poster_57.jpg
+Frozen,Romance,2017,5.5,poster_386.jpg
+The Dark Knight,Action,2015,6.0,poster_444.jpg
+Rocky,Crime,2005,6.5,poster_444.jpg
+Slumdog Millionaire,Adventure,2023,10.0,poster_469.jpg
+The Green Mile,Adventure,2018,7.0,poster_96.jpg
+Forrest Gump,Adventure,1981,7.0,poster_449.jpg
+L.A. Confidential,Thriller,1977,8.5,poster_117.jpg
+Django Unchained,Drama,1971,6.5,poster_217.jpg
+Scarface,Animation,2019,7.0,poster_455.jpg
+Ferris Bueller's Day Off,Comedy,1997,8.0,poster_439.jpg
+The Truman Show,Drama,2023,6.0,poster_310.jpg
+Spider-Man,Thriller,2006,7.0,poster_181.jpg
+Casino Royale,Sci-Fi,1975,9.0,poster_308.jpg
+Harry Potter and the Sorcerer's Stone,Adventure,2014,5.5,poster_182.jpg
+Black Panther,Animation,1972,9.0,poster_107.jpg
+Titanic,Crime,1978,6.5,poster_42.jpg
+Mad Max: Fury Road,Action,1993,8.0,poster_14.jpg
+The Green Mile,Adventure,1998,8.0,poster_89.jpg
+Heat,Fantasy,2004,5.5,poster_29.jpg
+The Godfather,Action,1980,8.5,poster_399.jpg
+The Sixth Sense,Thriller,2013,10.0,poster_416.jpg
+Jurassic Park,Action,2018,5.5,poster_140.jpg
+Avatar,Fantasy,1992,7.0,poster_450.jpg
+Deadpool,Crime,2021,9.5,poster_376.jpg
+The Dark Knight,Thriller,1983,5.0,poster_198.jpg
+Spider-Man,Animation,2007,8.0,poster_476.jpg
+Memento,Horror,1996,5.5,poster_167.jpg
+The Matrix,Horror,2009,10.0,poster_489.jpg
+Guardians of the Galaxy,Animation,1991,5.5,poster_488.jpg
+The Sixth Sense,Thriller,2000,6.0,poster_127.jpg
+The Hangover,Drama,1997,7.5,poster_106.jpg
+The Breakfast Club,Horror,1993,8.0,poster_197.jpg
+Fight Club,Adventure,1992,6.0,poster_83.jpg
+Full Metal Jacket,Comedy,2014,7.0,poster_35.jpg
+1917,Adventure,2022,5.0,poster_63.jpg
+Wonder Woman,Romance,1993,8.5,poster_454.jpg
+The Lion King,Drama,1971,8.5,poster_233.jpg
+The Lord of the Rings,Action,2009,7.5,poster_456.jpg
+Ferris Bueller's Day Off,Horror,2006,8.0,poster_228.jpg
+The Departed,Crime,1981,8.5,poster_222.jpg
+Avatar,Animation,1995,6.0,poster_260.jpg
+Top Gun,Crime,1975,10.0,poster_137.jpg
+Fight Club,Fantasy,2018,8.0,poster_147.jpg
+Se7en,Action,2009,7.5,poster_306.jpg
+Braveheart,Action,2021,6.5,poster_329.jpg
+Casino Royale,Adventure,2012,8.0,poster_251.jpg
+The Avengers,Horror,2004,9.0,poster_323.jpg
+Back to the Future,Animation,1983,5.5,poster_149.jpg
+Eternal Sunshine of the Spotless Mind,Fantasy,2008,10.0,poster_489.jpg
+Rocky,Crime,1998,6.5,poster_270.jpg
+The Truman Show,Comedy,2008,7.5,poster_385.jpg
+The Incredibles,Action,1994,6.0,poster_364.jpg
+The Prestige,Animation,2007,7.0,poster_76.jpg
+Taxi Driver,Sci-Fi,1999,8.0,poster_32.jpg
+A Beautiful Mind,Horror,1977,8.0,poster_263.jpg
+Se7en,Action,1988,6.0,poster_81.jpg
+A Beautiful Mind,Sci-Fi,2015,7.5,poster_291.jpg
+The Hurt Locker,Action,2003,10.0,poster_439.jpg
+The Hangover,Drama,1997,7.0,poster_335.jpg
+The Hurt Locker,Animation,2014,7.0,poster_72.jpg
+Finding Nemo,Thriller,2007,7.0,poster_137.jpg
+The Dark Knight Rises,Adventure,2003,5.5,poster_234.jpg
+The Dark Knight,Horror,1975,7.0,poster_93.jpg
+Inception,Comedy,2001,8.5,poster_163.jpg
+Moana,Sci-Fi,2021,6.0,poster_136.jpg
+Se7en,Animation,1973,9.5,poster_340.jpg
+No Country for Old Men,Crime,1970,5.5,poster_233.jpg
+The Hurt Locker,Sci-Fi,1997,8.5,poster_287.jpg
+The Sixth Sense,Comedy,1971,10.0,poster_45.jpg
+Full Metal Jacket,Adventure,2009,7.5,poster_85.jpg
+Pulp Fiction,Action,2013,8.0,poster_195.jpg
+Alien,Adventure,1998,9.5,poster_188.jpg
+L.A. Confidential,Animation,1997,7.5,poster_157.jpg
+The Dark Knight Rises,Sci-Fi,2016,10.0,poster_257.jpg
+Goodfellas,Crime,1980,7.0,poster_167.jpg
+Doctor Strange,Thriller,1980,6.0,poster_117.jpg
+Shrek,Animation,2014,10.0,poster_460.jpg
+Platoon,Thriller,1982,10.0,poster_180.jpg
+Scarface,Fantasy,1997,9.0,poster_403.jpg
+Se7en,Sci-Fi,2014,7.0,poster_79.jpg
+Ghostbusters,Fantasy,1991,8.5,poster_102.jpg
+American Beauty,Action,1979,5.0,poster_480.jpg
+Heat,Horror,1979,10.0,poster_477.jpg
+Gravity,Sci-Fi,1999,5.5,poster_328.jpg
+The Hangover,Adventure,1977,6.0,poster_457.jpg
+Black Panther,Horror,1997,9.0,poster_132.jpg
+Get Out,Drama,1984,7.0,poster_391.jpg
+Frozen,Thriller,1983,7.0,poster_212.jpg
+The Shawshank Redemption,Drama,1983,8.5,poster_97.jpg
+The Revenant,Crime,1995,8.5,poster_65.jpg
+No Country for Old Men,Crime,2016,6.0,poster_460.jpg
+A Beautiful Mind,Horror,1998,5.5,poster_50.jpg
+Parasite,Drama,1994,9.5,poster_388.jpg
+1917,Fantasy,1972,7.5,poster_252.jpg
+Toy Story,Crime,1982,5.5,poster_59.jpg
+Guardians of the Galaxy,Action,2008,5.5,poster_448.jpg
+Braveheart,Fantasy,1980,5.0,poster_131.jpg
+Blade Runner,Thriller,2022,6.5,poster_330.jpg
+Star Wars,Sci-Fi,1994,8.0,poster_266.jpg
+Joker,Romance,1974,8.0,poster_416.jpg
+Die Hard,Comedy,1996,9.5,poster_315.jpg
+Doctor Strange,Horror,2010,9.5,poster_31.jpg
+A Beautiful Mind,Romance,2014,9.0,poster_429.jpg
+Ferris Bueller's Day Off,Horror,1999,10.0,poster_350.jpg
+Gone Girl,Fantasy,2017,8.5,poster_203.jpg
+Iron Man,Horror,1991,5.5,poster_328.jpg
+Goodfellas,Crime,1980,10.0,poster_202.jpg
+The Hurt Locker,Horror,1975,7.5,poster_230.jpg
+A Beautiful Mind,Thriller,1983,7.0,poster_295.jpg
+American Beauty,Sci-Fi,1989,6.5,poster_386.jpg
+Django Unchained,Crime,2020,7.5,poster_56.jpg
+Moana,Romance,2019,10.0,poster_51.jpg
+Guardians of the Galaxy,Crime,1994,5.0,poster_182.jpg
+The Incredibles,Action,1972,5.5,poster_343.jpg
+Memento,Adventure,2006,8.5,poster_285.jpg
+Gravity,Animation,2019,7.5,poster_193.jpg
+Black Panther,Sci-Fi,2000,10.0,poster_401.jpg
+The Wolf of Wall Street,Horror,2013,9.5,poster_15.jpg
+Goodfellas,Comedy,1996,6.0,poster_21.jpg
+The Imitation Game,Horror,2006,9.0,poster_457.jpg
+Avengers: Endgame,Animation,1976,8.0,poster_223.jpg
+Get Out,Drama,1972,6.5,poster_287.jpg
+The Usual Suspects,Sci-Fi,2015,8.5,poster_463.jpg
+Back to the Future,Horror,1991,10.0,poster_152.jpg
+Memento,Horror,1992,5.5,poster_354.jpg
+Ferris Bueller's Day Off,Horror,2019,6.5,poster_32.jpg
+Blade Runner,Fantasy,2005,5.5,poster_236.jpg
+The Truman Show,Action,1990,7.0,poster_63.jpg
+1917,Sci-Fi,1994,7.5,poster_150.jpg
+The Wolf of Wall Street,Comedy,2015,7.0,poster_422.jpg
+Django Unchained,Action,2021,5.0,poster_31.jpg
+The Revenant,Sci-Fi,2018,6.0,poster_494.jpg
+Psycho,Animation,2007,6.5,poster_29.jpg
+Spider-Man,Fantasy,1979,6.5,poster_12.jpg
+La La Land,Thriller,1980,7.5,poster_322.jpg
+American Beauty,Fantasy,1991,10.0,poster_350.jpg
+Spider-Man,Romance,2008,5.0,poster_283.jpg
+Star Wars,Horror,2020,8.5,poster_274.jpg
+The Great Gatsby,Sci-Fi,2016,7.0,poster_197.jpg
+12 Years a Slave,Crime,2013,8.0,poster_61.jpg
+Goodfellas,Fantasy,1999,8.5,poster_12.jpg
+The Terminator,Action,2008,6.5,poster_345.jpg
+The Social Network,Comedy,2006,8.5,poster_246.jpg
+Guardians of the Galaxy,Romance,1972,8.5,poster_348.jpg
+Spider-Man,Action,1993,10.0,poster_301.jpg
+Black Panther,Animation,1988,9.0,poster_127.jpg
+The Dark Knight,Romance,1975,5.5,poster_396.jpg
+Star Wars,Sci-Fi,2009,7.0,poster_307.jpg
+The Imitation Game,Adventure,1997,7.0,poster_80.jpg
+The Silence of the Lambs,Romance,1977,7.0,poster_434.jpg
+Gladiator,Animation,1972,8.0,poster_360.jpg
+Schindler's List,Adventure,1980,8.5,poster_245.jpg
+Braveheart,Horror,2002,6.5,poster_428.jpg
+The Hangover,Fantasy,2023,6.5,poster_161.jpg
+Toy Story,Drama,2020,8.0,poster_184.jpg
+Avengers: Endgame,Comedy,2017,9.0,poster_419.jpg
+Mad Max: Fury Road,Drama,2021,9.0,poster_175.jpg
+12 Years a Slave,Crime,2011,5.0,poster_325.jpg
+The Shining,Thriller,1994,7.5,poster_479.jpg
+The Avengers,Adventure,2022,5.0,poster_315.jpg
+Ferris Bueller's Day Off,Fantasy,1991,6.5,poster_220.jpg
+Wonder Woman,Thriller,1972,5.0,poster_144.jpg
+Se7en,Horror,1986,7.0,poster_25.jpg
+Gone Girl,Drama,2005,8.0,poster_277.jpg
+Indiana Jones and the Last Crusade,Fantasy,2011,7.0,poster_423.jpg
+The Avengers,Animation,2003,9.0,poster_48.jpg
+The Prestige,Fantasy,2011,5.5,poster_36.jpg
+Citizen Kane,Animation,1991,8.5,poster_290.jpg
+The Sixth Sense,Adventure,2010,7.0,poster_396.jpg
+The Godfather,Horror,2012,7.0,poster_268.jpg
+Spider-Man,Adventure,2001,8.0,poster_308.jpg
+Alien,Action,1976,10.0,poster_160.jpg
+The Incredibles,Crime,1975,8.0,poster_324.jpg
+Finding Nemo,Romance,1995,5.5,poster_126.jpg
+Titanic,Sci-Fi,2023,7.5,poster_92.jpg
+The Grand Budapest Hotel,Animation,2018,9.0,poster_143.jpg
+The Incredibles,Romance,1988,6.0,poster_117.jpg
+Doctor Strange,Horror,1999,7.0,poster_436.jpg
+The Grand Budapest Hotel,Thriller,2013,10.0,poster_158.jpg
+12 Years a Slave,Romance,2018,5.0,poster_47.jpg
+Jurassic Park,Adventure,2000,5.0,poster_489.jpg
+The Social Network,Action,1995,5.0,poster_349.jpg
+Deadpool,Drama,1998,9.0,poster_355.jpg
+1917,Comedy,1999,8.0,poster_172.jpg
+12 Years a Slave,Thriller,1979,8.0,poster_455.jpg
+The Green Mile,Thriller,1984,6.5,poster_124.jpg
+Braveheart,Animation,1999,5.5,poster_271.jpg
+Jaws,Fantasy,1970,8.5,poster_314.jpg
+The Godfather,Fantasy,1970,5.0,poster_104.jpg
+Fight Club,Horror,1980,9.0,poster_179.jpg
+Gravity,Comedy,2007,6.0,poster_221.jpg
+Ferris Bueller's Day Off,Thriller,2023,10.0,poster_20.jpg
+1917,Adventure,1985,10.0,poster_323.jpg
+Inglourious Basterds,Fantasy,2011,9.0,poster_125.jpg
+The Dark Knight,Crime,1984,7.5,poster_390.jpg
+The Pianist,Action,2010,5.5,poster_249.jpg
+Memento,Action,1993,8.0,poster_392.jpg
+Alien,Thriller,2004,5.5,poster_326.jpg
+The Big Lebowski,Action,2001,5.5,poster_170.jpg
+The Revenant,Sci-Fi,1975,5.0,poster_38.jpg
+Pulp Fiction,Sci-Fi,1982,10.0,poster_9.jpg
+12 Years a Slave,Sci-Fi,2010,7.5,poster_165.jpg
+Gravity,Fantasy,2005,9.5,poster_81.jpg
+The Notebook,Thriller,1971,9.0,poster_449.jpg
+Avengers: Endgame,Drama,2023,8.5,poster_283.jpg
+Back to the Future,Animation,1989,10.0,poster_465.jpg
+Se7en,Sci-Fi,2004,5.5,poster_274.jpg
+The Exorcist,Sci-Fi,1971,6.0,poster_251.jpg
+Saving Private Ryan,Drama,2001,8.5,poster_161.jpg
+Die Hard,Adventure,2009,5.0,poster_99.jpg
+Avatar,Fantasy,2006,6.5,poster_237.jpg
+The King's Speech,Comedy,2011,8.0,poster_174.jpg
+Blade Runner,Drama,1981,7.0,poster_108.jpg
+Deadpool,Sci-Fi,1985,8.0,poster_339.jpg
+Braveheart,Comedy,2019,8.0,poster_78.jpg
+The Usual Suspects,Crime,1986,6.5,poster_247.jpg
+Casino Royale,Adventure,2012,10.0,poster_77.jpg
+Top Gun,Fantasy,1988,10.0,poster_7.jpg
+Django Unchained,Action,1984,7.0,poster_23.jpg
+Schindler's List,Drama,1983,5.0,poster_187.jpg
+American Beauty,Drama,1991,6.0,poster_25.jpg
+No Country for Old Men,Horror,1988,5.5,poster_78.jpg
+Taxi Driver,Action,2008,9.0,poster_195.jpg
+Deadpool,Comedy,2003,8.5,poster_103.jpg
+Inglourious Basterds,Adventure,1997,5.5,poster_74.jpg
+The Hangover,Romance,2015,5.5,poster_499.jpg
+The Avengers,Comedy,1975,5.5,poster_130.jpg
+Slumdog Millionaire,Romance,1996,6.0,poster_197.jpg
+Pulp Fiction,Adventure,2010,6.0,poster_7.jpg
+Jaws,Comedy,2006,8.0,poster_118.jpg
+Ferris Bueller's Day Off,Comedy,2015,5.5,poster_227.jpg
+Gone Girl,Romance,1983,10.0,poster_16.jpg
+Alien,Drama,1971,8.0,poster_207.jpg
+The Revenant,Animation,2021,6.0,poster_96.jpg
+Wonder Woman,Comedy,1983,8.5,poster_273.jpg
+Django Unchained,Animation,2010,5.5,poster_93.jpg
+Citizen Kane,Animation,1987,8.5,poster_499.jpg
+L.A. Confidential,Action,1998,8.0,poster_72.jpg
+Top Gun,Crime,1977,6.0,poster_224.jpg
+Braveheart,Drama,2008,8.0,poster_63.jpg
+Shrek,Crime,1970,5.5,poster_326.jpg
+The King's Speech,Thriller,2021,7.5,poster_50.jpg
+Skyfall,Animation,1997,10.0,poster_163.jpg
+Taxi Driver,Romance,1994,7.5,poster_106.jpg
+Star Wars,Crime,1987,9.5,poster_495.jpg
+The Shining,Adventure,2001,9.5,poster_313.jpg
+Joker,Fantasy,1971,8.0,poster_393.jpg
+Goodfellas,Crime,1975,9.0,poster_132.jpg
+Harry Potter and the Sorcerer's Stone,Romance,2022,6.5,poster_373.jpg
+The Exorcist,Adventure,1983,5.0,poster_296.jpg
+The Great Gatsby,Animation,1998,6.5,poster_136.jpg
+Parasite,Adventure,1981,8.5,poster_58.jpg
+The King's Speech,Action,2011,9.5,poster_304.jpg
+The Dark Knight Rises,Comedy,1975,9.5,poster_307.jpg
+Frozen,Drama,1990,8.5,poster_22.jpg
+Ghostbusters,Adventure,1992,9.5,poster_373.jpg
+Black Panther,Animation,1985,7.5,poster_64.jpg
+12 Years a Slave,Horror,2011,6.5,poster_256.jpg
+Casino Royale,Comedy,1975,9.5,poster_171.jpg
+The Notebook,Thriller,2022,5.0,poster_69.jpg
+Skyfall,Sci-Fi,1989,5.5,poster_179.jpg
+The Dark Knight Rises,Sci-Fi,1979,5.0,poster_470.jpg
+The Incredibles,Action,1971,8.5,poster_151.jpg
+Gladiator,Action,1981,5.0,poster_263.jpg
+Braveheart,Action,2000,6.5,poster_223.jpg
+Ghostbusters,Action,2009,9.5,poster_4.jpg
+The Lord of the Rings,Animation,1979,9.0,poster_93.jpg
+The Prestige,Romance,1984,10.0,poster_474.jpg
+The Hangover,Thriller,2013,5.0,poster_403.jpg
+L.A. Confidential,Adventure,2018,7.0,poster_334.jpg
+Gladiator,Crime,2002,6.0,poster_380.jpg
+The Grand Budapest Hotel,Sci-Fi,1979,9.5,poster_33.jpg
+The Revenant,Fantasy,2017,6.0,poster_430.jpg
+Apocalypse Now,Adventure,1990,6.0,poster_336.jpg
+The Dark Knight Rises,Fantasy,1987,9.0,poster_334.jpg
+Alien,Drama,2003,7.5,poster_299.jpg
+Saving Private Ryan,Thriller,1972,7.0,poster_414.jpg
+Ghostbusters,Romance,2006,5.5,poster_446.jpg
+Gravity,Action,1973,7.5,poster_420.jpg
+Indiana Jones and the Last Crusade,Animation,1989,7.5,poster_106.jpg
+Fight Club,Drama,1998,10.0,poster_265.jpg
+Slumdog Millionaire,Thriller,1978,9.5,poster_315.jpg
+Forrest Gump,Romance,2013,7.5,poster_163.jpg
+Toy Story,Action,1995,9.5,poster_155.jpg
+Back to the Future,Sci-Fi,1987,5.0,poster_106.jpg
+The Shining,Fantasy,1987,9.0,poster_356.jpg
+Inglourious Basterds,Fantasy,2007,9.0,poster_318.jpg
+Apocalypse Now,Thriller,1998,9.5,poster_179.jpg
+The Dark Knight Rises,Thriller,1983,6.0,poster_236.jpg
+Spider-Man,Action,2004,5.0,poster_439.jpg
+Psycho,Crime,1991,5.5,poster_214.jpg
+Fight Club,Thriller,1970,6.0,poster_413.jpg
+The Big Lebowski,Action,2020,9.0,poster_184.jpg
+Iron Man,Adventure,1996,8.0,poster_162.jpg
+Slumdog Millionaire,Crime,1975,10.0,poster_171.jpg
+The Avengers,Animation,1975,7.5,poster_176.jpg
+Finding Nemo,Horror,1981,6.0,poster_219.jpg
+Schindler's List,Comedy,1973,5.0,poster_89.jpg
+Slumdog Millionaire,Adventure,1983,8.5,poster_69.jpg
+The Revenant,Animation,1974,9.0,poster_248.jpg
+Die Hard,Comedy,1999,10.0,poster_391.jpg
+Heat,Horror,1988,5.5,poster_448.jpg
+Heat,Action,2010,8.5,poster_233.jpg
+Moana,Sci-Fi,2005,6.0,poster_241.jpg
+Braveheart,Fantasy,2023,5.5,poster_327.jpg
+Star Wars,Drama,1984,5.5,poster_274.jpg
+The Dark Knight,Adventure,1987,6.0,poster_239.jpg
+Apocalypse Now,Action,1987,10.0,poster_349.jpg
+1917,Thriller,2001,7.5,poster_6.jpg
+The Prestige,Romance,1981,6.5,poster_414.jpg
+Django Unchained,Romance,2014,9.0,poster_234.jpg
+Alien,Horror,1980,8.5,poster_338.jpg
+Eternal Sunshine of the Spotless Mind,Animation,2020,8.0,poster_253.jpg
+Avatar,Romance,2016,5.5,poster_318.jpg
+Blade Runner,Sci-Fi,2016,8.0,poster_12.jpg
+The Departed,Animation,2005,7.0,poster_86.jpg
+Django Unchained,Animation,2004,7.0,poster_498.jpg
+Shrek,Drama,2003,5.5,poster_77.jpg
+Goodfellas,Sci-Fi,1996,9.0,poster_409.jpg
+The Dark Knight,Thriller,1988,9.0,poster_37.jpg
+Back to the Future,Horror,2023,10.0,poster_410.jpg
+Get Out,Adventure,2001,10.0,poster_139.jpg
+L.A. Confidential,Sci-Fi,1995,7.0,poster_117.jpg
+Deadpool,Adventure,2023,6.0,poster_301.jpg
+Goodfellas,Comedy,1974,9.5,poster_214.jpg
+Deadpool,Drama,2008,9.0,poster_11.jpg
+Eternal Sunshine of the Spotless Mind,Sci-Fi,1996,10.0,poster_103.jpg
+The Matrix,Romance,1983,6.0,poster_437.jpg
+Top Gun,Crime,1984,5.5,poster_435.jpg
+Finding Nemo,Action,2022,6.5,poster_480.jpg
+Jurassic Park,Fantasy,1979,10.0,poster_470.jpg
+Fight Club,Adventure,1976,7.5,poster_216.jpg
+The Usual Suspects,Drama,1974,8.5,poster_218.jpg
+The Big Lebowski,Horror,2000,8.0,poster_409.jpg
+Saving Private Ryan,Adventure,1983,5.5,poster_344.jpg
+The Green Mile,Romance,2003,6.5,poster_123.jpg
+Casino Royale,Comedy,1986,5.5,poster_153.jpg
+Avengers: Endgame,Crime,1983,7.5,poster_171.jpg
+Skyfall,Drama,2020,7.0,poster_71.jpg
+La La Land,Thriller,2015,6.5,poster_278.jpg
+Iron Man,Sci-Fi,1975,6.0,poster_391.jpg
+Jurassic Park,Adventure,2010,7.5,poster_183.jpg
+Avatar,Animation,1980,8.0,poster_278.jpg
+The Incredibles,Horror,2004,5.5,poster_80.jpg
+Deadpool,Fantasy,1994,8.0,poster_384.jpg
+American Beauty,Romance,2010,7.0,poster_53.jpg
+The Lion King,Sci-Fi,1994,7.0,poster_424.jpg
+The Prestige,Horror,1976,8.0,poster_267.jpg
+The Shining,Horror,2011,6.5,poster_75.jpg
+The Pianist,Horror,1995,9.5,poster_61.jpg
+Frozen,Thriller,1971,6.5,poster_298.jpg
+The Dark Knight Rises,Animation,1976,5.0,poster_381.jpg
+Back to the Future,Horror,2009,8.0,poster_305.jpg

@@ -1,0 +1,61 @@
+Customer_ID,Name,Age,Gender,Purchase_Date,Product_Category,Amount_Spent
+1,Catherine Lucero,33.0,,2024-02-29,Clothing,468.91
+2,Zoe Castillo,59.0,,2024-05-25,,304.95
+3,,24.0,,,Electronics,64.26
+4,,,F,2024-04-04,Electronics,346.47
+5,,,,2024-04-04,Home Appliances,224.82
+6,,,M,2024-06-13,,199.0
+7,,,F,2024-09-09,Electronics,177.57
+8,Joe Golden,18.0,F,2024-06-06,Clothing,
+9,,,F,,Home Appliances,276.17
+10,Maria Wilson,23.0,,2024-06-06,Home Appliances,372.56
+11,Michael Edwards,44.0,F,2024-08-27,Clothing,356.36
+12,,,F,,Home Appliances,398.78
+13,,,,2024-06-21,Clothing,483.27
+14,Christine Callahan,51.0,,2024-07-05,Clothing,428.78
+15,Daniel Olson,41.0,,,Electronics,355.03
+16,Ronald Brown,,,2024-10-10,,288.98
+17,Antonio Robinson,,,2023-12-10,,138.99
+18,Carolyn Kirby,18.0,M,2024-02-03,Clothing,186.7
+19,Derrick Brown,,,2023-12-21,,215.95
+20,Blake Ortiz,,,2024-05-29,,232.74
+21,Jade Giles,23.0,F,2023-11-25,,353.86
+22,Andrew Fry,34.0,,,,356.23
+23,Harold Huffman,30.0,M,2024-07-11,Home Appliances,62.96
+24,Rebecca Mendoza DVM,53.0,F,2024-01-10,Clothing,
+25,Andrea Hull,21.0,F,2024-07-10,,280.84
+26,Sherry Mason,,M,2024-03-10,Home Appliances,491.29
+27,Samuel Cochran,32.0,,2024-01-04,Home Appliances,355.77
+28,Lauren Williams,,F,2024-05-01,Electronics,365.2
+29,Lucas Little,53.0,,2023-11-01,Clothing,92.81
+30,,36.0,F,2024-03-20,,214.44
+31,,43.0,M,2024-06-10,Electronics,419.19
+32,Robin Bautista,47.0,F,2024-08-07,Electronics,75.86
+33,Hannah Hughes,22.0,F,2023-12-07,,482.27
+34,Janet Burns,48.0,F,,Electronics,301.61
+35,Chad Murphy,54.0,F,2024-04-04,,147.25
+36,,56.0,,2024-05-12,Home Appliances,406.27
+37,Ruth Lewis,53.0,M,2024-02-08,Home Appliances,440.08
+38,Carrie Silva,,M,2023-10-31,Electronics,475.55
+39,Michelle White,,,2024-10-03,Home Appliances,483.54
+40,,,M,2024-02-10,Home Appliances,279.65
+41,Kaitlyn Tucker,,F,2023-12-18,,196.08
+42,Edward Hernandez,55.0,M,2024-09-22,Electronics,479.26
+43,Barry Webb,,M,2024-02-20,,127.31
+44,Justin Moore,,,2024-01-30,Clothing,177.75
+45,Stacy Brown,,,2024-08-17,Electronics,499.45
+46,,,F,2023-12-12,Home Appliances,289.28
+47,,,,2024-07-08,,158.04
+48,Willie Lozano,58.0,M,,Clothing,487.13
+49,Tanya Murphy,,F,,,497.11
+50,Loretta Lawrence,27.0,F,2024-03-14,Clothing,497.87
+51,Adrian Campbell,56.0,M,2024-05-06,Clothing,443.31
+52,William Wilkins,,F,2024-05-20,,65.19
+53,Douglas Hampton,,M,2023-11-16,,453.13
+54,,,F,,Home Appliances,443.84
+55,Craig Johnson,52.0,F,2024-01-24,Home Appliances,298.34
+56,,,,2023-11-20,,364.48
+57,,18.0,F,2024-01-25,Electronics,145.57
+58,Max Skinner Jr.,26.0,F,2024-07-02,Clothing,262.41
+59,Alexandra Santiago,,M,,Electronics,387.5
+60,John Dickson,,,2024-08-11,Electronics,207.31
