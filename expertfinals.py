@@ -9,7 +9,7 @@ from sklearn.preprocessing import StandardScaler
 
 # Load CSV File Function
 def load_csv():
-    file_path = "customer_sales.csv"  # assuming the CSV file is in the same directory as your script
+    file_path = "library_books.csv"  # assuming the CSV file is in the same directory as your script
     if file_path:
         try:
             global df
