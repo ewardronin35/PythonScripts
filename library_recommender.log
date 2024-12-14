@@ -1,0 +1,378 @@
+2024-11-27 22:16:05,965 - INFO - Database setup completed.
+2024-11-27 22:16:07,540 - INFO - Database setup completed.
+2024-11-27 22:16:07,546 - INFO - Loaded 2 ratings for user_id 1.
+2024-11-27 22:16:09,891 - INFO - Loaded 'library_books.csv' with 1000 records.
+2024-11-27 22:16:09,905 - INFO - Cleaned ISBNs by removing hyphens and spaces.
+2024-11-27 22:16:09,907 - INFO - Removed 0 duplicate records.
+2024-11-27 22:16:09,909 - INFO - Removed 0 records with missing critical data.
+2024-11-27 22:16:10,147 - INFO - Removed 907 outliers from 'borrow_count'.
+2024-11-27 22:16:10,147 - INFO - Validated publication years between 1450 and 2024.
+2024-11-27 22:16:10,147 - INFO - No 'book_id' column found. Skipping duplicate book_id enforcement.
+2024-11-27 22:16:10,153 - INFO - Handled missing numeric values with KNN Imputation.
+2024-11-27 22:16:10,153 - INFO - Final cleaned records: 93
+2024-11-27 22:16:10,156 - INFO - Cleaned data saved to 'library_books_cleaned.csv'.
+2024-11-27 22:16:10,168 - INFO - Database setup completed.
+2024-11-27 22:16:10,169 - INFO - Populating books from 'library_books_cleaned.csv'.
+2024-11-27 22:16:10,253 - INFO - Books populated successfully.
+2024-11-27 22:16:10,253 - WARNING - Users file 'users.csv' not found. Skipping users population.
+2024-11-27 22:16:10,253 - WARNING - Borrowed books file 'borrowed_books.csv' not found. Skipping borrowed books population.
+2024-11-27 22:16:10,253 - WARNING - Ratings file 'ratings.csv' not found. Skipping ratings population.
+2024-11-27 22:16:10,402 - INFO - Book popularity calculated and updated.
+2024-11-27 22:16:10,406 - INFO - User profiles saved to 'user_profiles.csv'.
+2024-11-27 22:16:10,406 - INFO - Feature engineering completed.
+2024-11-27 22:16:10,437 - INFO - Loaded books and ratings data for recommendation engine.
+2024-11-27 22:16:10,450 - INFO - Content-Based Recommender initialized.
+2024-11-27 22:16:10,452 - WARNING - Insufficient ratings data to train the collaborative filtering model.
+2024-11-27 22:16:10,452 - INFO - Hybrid Recommender initialized.
+2024-11-27 22:16:10,452 - WARNING - Collaborative Filtering model was not trained due to insufficient data.
+2024-11-27 22:16:10,452 - INFO - Recommendation system initialized successfully.
+2024-11-27 22:16:18,660 - INFO - Content-Based Recommendations for 'The Hobbit': ['The Hobbit', 'To Kill a Mockingbird', 'War and Peace']
+2024-11-27 22:16:18,660 - WARNING - Collaborative Filtering model is not trained.
+2024-11-27 22:16:18,660 - INFO - Hybrid Recommendations for user_id 1 based on 'The Hobbit': ['The Hobbit', 'To Kill a Mockingbird', 'War and Peace']
+2024-11-27 22:16:22,120 - INFO - Popular Recommendations for new users: ['Jane Eyre', 'Gone with the Wind', 'Jane Eyre', 'The Great Gatsby', 'The Lord of the Rings']
+2024-11-27 22:16:26,279 - INFO - Popular Recommendations for new users: ['Jane Eyre', 'Gone with the Wind', 'Jane Eyre', 'The Great Gatsby', 'The Lord of the Rings', 'War and Peace', 'The Alchemist', 'Jane Eyre', 'The Alchemist', 'The Catcher in the Rye', 'The Hobbit', 'The Lord of the Rings', 'Pride and Prejudice', 'To Kill a Mockingbird', 'To Kill a Mockingbird', 'Moby Dick', 'Gone with the Wind', 'Gone with the Wind', 'Pride and Prejudice', 'War and Peace', 'The Odyssey', 'Moby Dick', 'To Kill a Mockingbird', 'The Great Gatsby', 'Crime and Punishment', '1984', 'The Great Gatsby', 'The Odyssey', 'The Catcher in the Rye', 'The Hobbit', 'The Catcher in the Rye', "Harry Potter and the Sorcerer's Stone", 'To Kill a Mockingbird', 'The Chronicles of Narnia', 'To Kill a Mockingbird', 'The Lord of the Rings', "Harry Potter and the Sorcerer's Stone", 'To Kill a Mockingbird', 'The Alchemist', 'The Great Gatsby', 'The Great Gatsby', 'Gone with the Wind', 'Jane Eyre', 'To Kill a Mockingbird', 'The Odyssey', 'The Odyssey', 'The Lord of the Rings', 'Les Misérables', 'Crime and Punishment', 'The Catcher in the Rye', 'Wuthering Heights', 'The Alchemist', 'The Great Gatsby', 'Wuthering Heights', '1984', 'Les Misérables', 'The Chronicles of Narnia', 'The Hobbit', 'War and Peace', 'The Odyssey', 'Brave New World', 'To Kill a Mockingbird', 'The Chronicles of Narnia', 'War and Peace', 'Pride and Prejudice', 'To Kill a Mockingbird', 'The Chronicles of Narnia', 'The Lord of the Rings', 'Jane Eyre', 'Jane Eyre', 'War and Peace', 'The Lord of the Rings', 'The Hobbit', 'The Odyssey', 'Gone with the Wind', 'Les Misérables', 'Les Misérables', 'The Alchemist', 'Crime and Punishment', 'The Odyssey', 'War and Peace', 'To Kill a Mockingbird', 'Animal Farm', 'War and Peace', 'The Odyssey', 'Jane Eyre', 'Crime and Punishment', 'Moby Dick', 'The Lord of the Rings', 'Animal Farm', '1984', 'War and Peace', 'The Hobbit', 'The Alchemist', 'The Catcher in the Rye', 'The Alchemist', 'The Alchemist', 'The Chronicles of Narnia', 'The Catcher in the Rye', 'Animal Farm', 'Animal Farm', 'Pride and Prejudice', 'The Chronicles of Narnia', 'The Alchemist', '1984', 'Pride and Prejudice', 'To Kill a Mockingbird', 'The Chronicles of Narnia', 'War and Peace', '1984', 'Gone with the Wind', 'The Odyssey', 'Moby Dick', 'The Catcher in the Rye', 'Jane Eyre', 'Les Misérables', 'The Alchemist', 'The Lord of the Rings', 'War and Peace', 'The Alchemist', 'Animal Farm', 'War and Peace', 'The Chronicles of Narnia', 'Gone with the Wind', 'The Alchemist', '1984', 'Les Misérables', 'Brave New World', '1984', '1984', 'Moby Dick', 'The Hobbit', 'Moby Dick', 'The Chronicles of Narnia', 'Animal Farm', 'Pride and Prejudice', 'To Kill a Mockingbird', 'Pride and Prejudice', 'Animal Farm', 'War and Peace', 'Les Misérables', 'Pride and Prejudice', 'Pride and Prejudice']
+2024-11-27 22:16:33,097 - INFO - Popular Recommendations for new users: ['Jane Eyre', 'Gone with the Wind', 'Jane Eyre', 'The Great Gatsby', 'The Lord of the Rings', 'War and Peace', 'The Alchemist', 'Jane Eyre', 'The Alchemist', 'The Catcher in the Rye', 'The Hobbit', 'The Lord of the Rings', 'Pride and Prejudice', 'To Kill a Mockingbird', 'To Kill a Mockingbird', 'Moby Dick', 'Gone with the Wind', 'Gone with the Wind', 'Pride and Prejudice', 'War and Peace', 'The Odyssey', 'Moby Dick', 'To Kill a Mockingbird', 'The Great Gatsby', 'Crime and Punishment', '1984', 'The Great Gatsby', 'The Odyssey', 'The Catcher in the Rye', 'The Hobbit', 'The Catcher in the Rye', "Harry Potter and the Sorcerer's Stone", 'To Kill a Mockingbird', 'The Chronicles of Narnia', 'To Kill a Mockingbird', 'The Lord of the Rings', "Harry Potter and the Sorcerer's Stone", 'To Kill a Mockingbird', 'The Alchemist', 'The Great Gatsby', 'The Great Gatsby', 'Gone with the Wind', 'Jane Eyre', 'To Kill a Mockingbird', 'The Odyssey', 'The Odyssey', 'The Lord of the Rings', 'Les Misérables', 'Crime and Punishment', 'The Catcher in the Rye', 'Wuthering Heights', 'The Alchemist', 'The Great Gatsby', 'Wuthering Heights', '1984', 'Les Misérables', 'The Chronicles of Narnia', 'The Hobbit', 'War and Peace', 'The Odyssey', 'Brave New World', 'To Kill a Mockingbird', 'The Chronicles of Narnia', 'War and Peace', 'Pride and Prejudice', 'To Kill a Mockingbird', 'The Chronicles of Narnia', 'The Lord of the Rings', 'Jane Eyre', 'Jane Eyre', 'War and Peace', 'The Lord of the Rings', 'The Hobbit', 'The Odyssey', 'Gone with the Wind', 'Les Misérables', 'Les Misérables', 'The Alchemist', 'Crime and Punishment', 'The Odyssey', 'War and Peace', 'To Kill a Mockingbird', 'Animal Farm', 'War and Peace', 'The Odyssey', 'Jane Eyre', 'Crime and Punishment', 'Moby Dick', 'The Lord of the Rings', 'Animal Farm', '1984', 'War and Peace', 'The Hobbit', 'The Alchemist', 'The Catcher in the Rye', 'The Alchemist', 'The Alchemist', 'The Chronicles of Narnia', 'The Catcher in the Rye', 'Animal Farm']
+2024-11-27 22:16:47,003 - INFO - Database setup completed.
+2024-11-27 22:16:47,012 - INFO - User profile updated for user_id 1.
+2024-11-27 23:18:03,371 - INFO - Database setup completed.
+2024-11-27 23:18:08,081 - INFO - Database setup completed.
+2024-11-27 23:18:52,250 - INFO - Database setup completed.
+2024-11-27 23:18:53,130 - INFO - Database setup completed.
+2024-11-27 23:18:53,135 - INFO - Loaded 2 ratings for user_id 1.
+2024-11-27 23:19:03,560 - INFO - Loaded 'library_books.csv' with 1000 records.
+2024-11-27 23:19:03,564 - INFO - Cleaned ISBNs by removing hyphens and spaces.
+2024-11-27 23:19:03,564 - INFO - Removed 0 duplicate records.
+2024-11-27 23:19:03,565 - INFO - Removed 0 records with missing critical data.
+2024-11-27 23:19:03,801 - INFO - Removed 900 outliers from 'borrow_count'.
+2024-11-27 23:19:03,802 - INFO - Validated publication years between 1450 and 2024.
+2024-11-27 23:19:03,802 - INFO - No 'book_id' column found. Skipping duplicate book_id enforcement.
+2024-11-27 23:19:03,805 - INFO - Handled missing numeric values with KNN Imputation.
+2024-11-27 23:19:03,805 - INFO - Final cleaned records: 100
+2024-11-27 23:19:03,807 - INFO - Cleaned data saved to 'library_books_cleaned.csv'.
+2024-11-27 23:19:03,821 - INFO - Database setup completed.
+2024-11-27 23:19:03,823 - INFO - Populating books from 'library_books_cleaned.csv'.
+2024-11-27 23:19:03,933 - INFO - Books populated successfully.
+2024-11-27 23:19:03,934 - WARNING - Users file 'users.csv' not found. Skipping users population.
+2024-11-27 23:19:03,934 - WARNING - Borrowed books file 'borrowed_books.csv' not found. Skipping borrowed books population.
+2024-11-27 23:19:03,934 - WARNING - Ratings file 'ratings.csv' not found. Skipping ratings population.
+2024-11-27 23:19:04,108 - INFO - Book popularity calculated and updated.
+2024-11-27 23:19:04,111 - INFO - User profiles saved to 'user_profiles.csv'.
+2024-11-27 23:19:04,112 - INFO - Feature engineering completed.
+2024-11-27 23:19:04,148 - INFO - Loaded books and ratings data for recommendation engine.
+2024-11-27 23:19:04,153 - INFO - Content-Based Recommender initialized.
+2024-11-27 23:19:04,153 - WARNING - Insufficient ratings data to train the collaborative filtering model.
+2024-11-27 23:19:04,153 - INFO - Hybrid Recommender initialized.
+2024-11-27 23:19:04,153 - WARNING - Collaborative Filtering model was not trained due to insufficient data.
+2024-11-27 23:19:04,153 - INFO - Recommendation system initialized successfully.
+2024-11-27 23:19:29,653 - INFO - Popular Recommendations for new users: ['Jane Eyre', 'Gone with the Wind', 'Jane Eyre', 'The Great Gatsby', 'The Lord of the Rings']
+2024-11-28 17:08:57,318 - INFO - Database setup completed.
+2024-11-28 17:09:01,003 - INFO - Database setup completed.
+2024-11-28 17:09:04,360 - INFO - Database setup completed.
+2024-11-28 17:09:05,726 - INFO - Database setup completed.
+2024-11-28 17:09:05,731 - INFO - Loaded 2 ratings for user_id 1.
+2024-11-28 17:09:06,773 - INFO - Loaded 'library_books.csv' with 1000 records.
+2024-11-28 17:09:06,784 - INFO - Cleaned ISBNs by removing hyphens and spaces.
+2024-11-28 17:09:06,786 - INFO - Removed 0 duplicate records.
+2024-11-28 17:09:06,788 - INFO - Removed 0 records with missing critical data.
+2024-11-28 17:09:07,010 - INFO - Removed 908 outliers from 'borrow_count'.
+2024-11-28 17:09:07,011 - INFO - Validated publication years between 1450 and 2024.
+2024-11-28 17:09:07,011 - INFO - No 'book_id' column found. Skipping duplicate book_id enforcement.
+2024-11-28 17:09:07,014 - INFO - Handled missing numeric values with KNN Imputation.
+2024-11-28 17:09:07,014 - INFO - Final cleaned records: 92
+2024-11-28 17:09:07,017 - INFO - Cleaned data saved to 'library_books_cleaned.csv'.
+2024-11-28 17:09:07,053 - INFO - Database setup completed.
+2024-11-28 17:09:07,054 - INFO - Populating books from 'library_books_cleaned.csv'.
+2024-11-28 17:09:07,155 - INFO - Books populated successfully.
+2024-11-28 17:09:07,156 - WARNING - Users file 'users.csv' not found. Skipping users population.
+2024-11-28 17:09:07,156 - WARNING - Borrowed books file 'borrowed_books.csv' not found. Skipping borrowed books population.
+2024-11-28 17:09:07,156 - WARNING - Ratings file 'ratings.csv' not found. Skipping ratings population.
+2024-11-28 17:09:07,327 - INFO - Book popularity calculated and updated.
+2024-11-28 17:09:07,332 - INFO - User profiles saved to 'user_profiles.csv'.
+2024-11-28 17:09:07,332 - INFO - Feature engineering completed.
+2024-11-28 17:09:07,377 - INFO - Loaded books and ratings data for recommendation engine.
+2024-11-28 17:09:07,387 - INFO - Content-Based Recommender initialized.
+2024-11-28 17:09:07,388 - WARNING - Insufficient ratings data to train the collaborative filtering model.
+2024-11-28 17:09:07,388 - INFO - Hybrid Recommender initialized.
+2024-11-28 17:09:07,389 - WARNING - Collaborative Filtering model was not trained due to insufficient data.
+2024-11-28 17:09:07,389 - INFO - Recommendation system initialized successfully.
+2024-11-28 17:09:21,225 - INFO - Popular Recommendations for new users: ['Jane Eyre', 'Gone with the Wind', 'Jane Eyre', 'The Great Gatsby', 'The Lord of the Rings']
+2024-11-28 17:14:35,875 - INFO - Database setup completed.
+2024-11-28 17:14:36,567 - INFO - Database setup completed.
+2024-11-28 17:14:40,526 - INFO - Database setup completed.
+2024-11-28 17:14:44,835 - INFO - Database setup completed.
+2024-11-28 17:17:33,877 - INFO - Database setup completed.
+2024-11-28 17:17:35,670 - INFO - Database setup completed.
+2024-11-28 17:17:35,675 - INFO - Loaded 2 ratings for user_id 1.
+2024-11-28 17:17:37,155 - INFO - Loaded 'library_books.csv' with 1000 records.
+2024-11-28 17:17:37,158 - INFO - Cleaned ISBNs by removing hyphens and spaces.
+2024-11-28 17:17:37,159 - INFO - Removed 0 duplicate records.
+2024-11-28 17:17:37,159 - INFO - Removed 0 records with missing critical data.
+2024-11-28 17:17:37,370 - INFO - Removed 905 outliers from 'borrow_count'.
+2024-11-28 17:17:37,371 - INFO - Validated publication years between 1450 and 2024.
+2024-11-28 17:17:37,371 - INFO - No 'book_id' column found. Skipping duplicate book_id enforcement.
+2024-11-28 17:17:37,373 - INFO - Handled missing numeric values with KNN Imputation.
+2024-11-28 17:17:37,373 - INFO - Final cleaned records: 95
+2024-11-28 17:17:37,376 - INFO - Cleaned data saved to 'library_books_cleaned.csv'.
+2024-11-28 17:17:37,409 - INFO - Database setup completed.
+2024-11-28 17:17:37,410 - INFO - Populating books from 'library_books_cleaned.csv'.
+2024-11-28 17:17:37,500 - INFO - Books populated successfully.
+2024-11-28 17:17:37,500 - WARNING - Users file 'users.csv' not found. Skipping users population.
+2024-11-28 17:17:37,500 - WARNING - Borrowed books file 'borrowed_books.csv' not found. Skipping borrowed books population.
+2024-11-28 17:17:37,501 - WARNING - Ratings file 'ratings.csv' not found. Skipping ratings population.
+2024-11-28 17:17:37,671 - INFO - Book popularity calculated and updated.
+2024-11-28 17:17:37,675 - INFO - User profiles saved to 'user_profiles.csv'.
+2024-11-28 17:17:37,675 - INFO - Feature engineering completed.
+2024-11-28 17:17:37,702 - INFO - Loaded books and ratings data for recommendation engine.
+2024-11-28 17:17:37,707 - INFO - Content-Based Recommender initialized.
+2024-11-28 17:17:37,708 - WARNING - Insufficient ratings data to train the collaborative filtering model.
+2024-11-28 17:17:37,708 - INFO - Hybrid Recommender initialized.
+2024-11-28 17:17:37,708 - WARNING - Collaborative Filtering model was not trained due to insufficient data.
+2024-11-28 17:17:37,708 - INFO - Recommendation system initialized successfully.
+2024-11-28 17:17:57,372 - INFO - Content-Based Recommendations for 'The Hobbit': ['The Hobbit', 'To Kill a Mockingbird', 'War and Peace']
+2024-11-28 17:17:57,372 - WARNING - Collaborative Filtering model is not trained.
+2024-11-28 17:17:57,372 - INFO - Hybrid Recommendations for user_id 1 based on 'The Hobbit': ['The Hobbit', 'To Kill a Mockingbird', 'War and Peace']
+2024-11-28 17:18:01,626 - INFO - Content-Based Recommendations for 'The Hobbit': ['The Hobbit', 'To Kill a Mockingbird', 'War and Peace', 'The Lord of the Rings', 'The Hobbit']
+2024-11-28 17:18:01,626 - WARNING - Collaborative Filtering model is not trained.
+2024-11-28 17:18:01,626 - INFO - Hybrid Recommendations for user_id 1 based on 'The Hobbit': ['The Hobbit', 'To Kill a Mockingbird', 'War and Peace', 'The Lord of the Rings']
+2024-11-28 17:18:03,287 - INFO - Content-Based Recommendations for 'The Hobbit': ['The Hobbit', 'To Kill a Mockingbird', 'War and Peace', 'The Lord of the Rings', 'The Hobbit', 'Moby Dick']
+2024-11-28 17:18:03,287 - WARNING - Collaborative Filtering model is not trained.
+2024-11-28 17:18:03,287 - INFO - Hybrid Recommendations for user_id 1 based on 'The Hobbit': ['The Hobbit', 'To Kill a Mockingbird', 'War and Peace', 'The Lord of the Rings', 'Moby Dick']
+2024-11-28 17:18:03,599 - INFO - Content-Based Recommendations for 'The Hobbit': ['The Hobbit', 'To Kill a Mockingbird', 'War and Peace', 'The Lord of the Rings', 'The Hobbit', 'Moby Dick']
+2024-11-28 17:18:03,599 - WARNING - Collaborative Filtering model is not trained.
+2024-11-28 17:18:03,600 - INFO - Hybrid Recommendations for user_id 1 based on 'The Hobbit': ['The Hobbit', 'To Kill a Mockingbird', 'War and Peace', 'The Lord of the Rings', 'Moby Dick']
+2024-11-28 17:18:07,316 - INFO - Content-Based Recommendations for 'The Hobbit': ['The Hobbit', 'To Kill a Mockingbird', 'War and Peace', 'The Lord of the Rings', 'The Hobbit', 'Moby Dick', 'Animal Farm', 'Moby Dick', 'Pride and Prejudice', 'Jane Eyre', 'The Catcher in the Rye', 'Jane Eyre', 'The Lord of the Rings', 'The Alchemist', 'War and Peace', 'Pride and Prejudice', 'Crime and Punishment', 'Jane Eyre', 'Gone with the Wind', 'The Lord of the Rings', 'Crime and Punishment', 'Jane Eyre', 'The Hobbit', 'The Alchemist', 'The Catcher in the Rye', 'The Alchemist', 'The Alchemist', 'The Chronicles of Narnia', 'Animal Farm', 'Pride and Prejudice', 'The Chronicles of Narnia', 'The Alchemist', '1984', 'Animal Farm', 'Animal Farm', 'To Kill a Mockingbird', 'Gone with the Wind', 'Les Misérables', 'Les Misérables', 'Crime and Punishment', 'The Odyssey', 'The Odyssey', 'War and Peace', 'The Odyssey', 'To Kill a Mockingbird', '1984', 'The Chronicles of Narnia', 'Les Misérables', '1984', '1984', 'Moby Dick', 'The Hobbit', 'Moby Dick', 'The Chronicles of Narnia', 'Brave New World', 'Animal Farm', 'To Kill a Mockingbird', 'Pride and Prejudice', 'Animal Farm', 'War and Peace', 'Les Misérables', 'Pride and Prejudice', 'Pride and Prejudice', '1984', 'The Alchemist', 'Gone with the Wind', 'The Odyssey', 'Moby Dick', 'The Catcher in the Rye', 'Jane Eyre', 'Les Misérables', '1984', 'The Alchemist', 'War and Peace', 'The Alchemist', 'Animal Farm', 'War and Peace', 'The Chronicles of Narnia', 'Gone with the Wind', 'War and Peace', 'The Lord of the Rings', "Harry Potter and the Sorcerer's Stone", 'War and Peace', 'The Odyssey', 'To Kill a Mockingbird', 'The Great Gatsby', 'Crime and Punishment', '1984', 'War and Peace', 'The Great Gatsby']
+2024-11-28 17:18:07,317 - WARNING - Collaborative Filtering model is not trained.
+2024-11-28 17:18:07,317 - INFO - Hybrid Recommendations for user_id 1 based on 'The Hobbit': ['War and Peace', 'The Alchemist', 'Animal Farm', '1984', 'Pride and Prejudice', 'To Kill a Mockingbird', 'Moby Dick', 'Jane Eyre', 'The Chronicles of Narnia', 'Les Misérables', 'The Odyssey', 'The Hobbit', 'The Lord of the Rings', 'Crime and Punishment', 'Gone with the Wind', 'The Catcher in the Rye', 'The Great Gatsby', 'Brave New World', "Harry Potter and the Sorcerer's Stone"]
+2024-11-28 17:18:09,631 - INFO - Content-Based Recommendations for 'The Hobbit': ['The Hobbit', 'To Kill a Mockingbird', 'War and Peace', 'The Lord of the Rings', 'The Hobbit', 'Moby Dick', 'Animal Farm', 'Moby Dick', 'Pride and Prejudice', 'Jane Eyre', 'The Catcher in the Rye', 'Jane Eyre', 'The Lord of the Rings', 'The Alchemist', 'War and Peace', 'Pride and Prejudice', 'Crime and Punishment', 'Jane Eyre', 'Gone with the Wind', 'The Lord of the Rings', 'Crime and Punishment', 'Jane Eyre', 'The Hobbit', 'The Alchemist', 'The Catcher in the Rye', 'The Alchemist', 'The Alchemist', 'The Chronicles of Narnia', 'Animal Farm', 'Pride and Prejudice', 'The Chronicles of Narnia', 'The Alchemist', '1984', 'Animal Farm', 'Animal Farm', 'To Kill a Mockingbird', 'Gone with the Wind', 'Les Misérables', 'Les Misérables', 'Crime and Punishment', 'The Odyssey', 'The Odyssey', 'War and Peace', 'The Odyssey', 'To Kill a Mockingbird', '1984', 'The Chronicles of Narnia', 'Les Misérables', '1984', '1984', 'Moby Dick', 'The Hobbit', 'Moby Dick', 'The Chronicles of Narnia', 'Brave New World', 'Animal Farm', 'To Kill a Mockingbird', 'Pride and Prejudice', 'Animal Farm', 'War and Peace', 'Les Misérables', 'Pride and Prejudice', 'Pride and Prejudice', '1984', 'The Alchemist', 'Gone with the Wind', 'The Odyssey', 'Moby Dick', 'The Catcher in the Rye', 'Jane Eyre', 'Les Misérables', '1984', 'The Alchemist', 'War and Peace', 'The Alchemist', 'Animal Farm', 'War and Peace', 'The Chronicles of Narnia', 'Gone with the Wind', 'War and Peace', 'The Lord of the Rings', "Harry Potter and the Sorcerer's Stone", 'War and Peace', 'The Odyssey', 'To Kill a Mockingbird', 'The Great Gatsby', 'Crime and Punishment', '1984', 'War and Peace', 'The Great Gatsby', 'The Catcher in the Rye', 'The Hobbit', 'The Catcher in the Rye', "Harry Potter and the Sorcerer's Stone", 'To Kill a Mockingbird', 'The Chronicles of Narnia', 'The Odyssey', 'Gone with the Wind', 'The Catcher in the Rye', 'Gone with the Wind', 'Jane Eyre', 'The Great Gatsby', 'The Lord of the Rings', 'War and Peace', 'The Alchemist', 'Gone with the Wind', 'The Alchemist', 'The Lord of the Rings', 'Pride and Prejudice', 'To Kill a Mockingbird', 'To Kill a Mockingbird', 'Moby Dick', 'To Kill a Mockingbird', 'Pride and Prejudice', 'The Lord of the Rings', '1984', 'The Chronicles of Narnia', 'The Hobbit', 'War and Peace', 'The Odyssey', 'Brave New World', 'To Kill a Mockingbird', 'Les Misérables', 'The Chronicles of Narnia', 'Pride and Prejudice', 'The Chronicles of Narnia', 'The Lord of the Rings', 'Jane Eyre', 'Jane Eyre', 'War and Peace', 'Wuthering Heights', 'The Odyssey', 'The Great Gatsby', 'The Alchemist', 'The Great Gatsby', 'The Great Gatsby', 'To Kill a Mockingbird', 'To Kill a Mockingbird', 'The Odyssey', 'Les Misérables', 'The Catcher in the Rye', 'Wuthering Heights', 'The Alchemist']
+2024-11-28 17:18:09,631 - WARNING - Collaborative Filtering model is not trained.
+2024-11-28 17:18:09,631 - INFO - Hybrid Recommendations for user_id 1 based on 'The Hobbit': ['To Kill a Mockingbird', 'War and Peace', 'The Alchemist', 'Pride and Prejudice', 'The Chronicles of Narnia', 'The Odyssey', 'The Lord of the Rings', 'Jane Eyre', '1984', 'Animal Farm', 'The Catcher in the Rye', 'Gone with the Wind', 'Les Misérables', 'The Hobbit', 'Moby Dick', 'The Great Gatsby', 'Crime and Punishment', 'Brave New World', "Harry Potter and the Sorcerer's Stone", 'Wuthering Heights']
+2024-11-28 17:18:19,288 - INFO - Popular Recommendations for new users: ['Jane Eyre', 'Gone with the Wind', 'Jane Eyre', 'The Great Gatsby', 'The Lord of the Rings']
+2024-11-28 17:18:21,529 - INFO - Popular Recommendations for new users: ['Jane Eyre', 'Gone with the Wind', 'Jane Eyre', 'The Great Gatsby', 'The Lord of the Rings', 'War and Peace', 'The Alchemist', 'Jane Eyre', 'The Alchemist', 'The Catcher in the Rye']
+2024-11-28 17:20:32,701 - INFO - Database setup completed.
+2024-11-28 17:20:33,810 - INFO - Database setup completed.
+2024-11-28 17:20:33,817 - INFO - Loaded 4 ratings for user_id 1.
+2024-11-28 17:20:35,026 - INFO - Loaded 'library_books.csv' with 1000 records.
+2024-11-28 17:20:35,029 - INFO - Cleaned ISBNs by removing hyphens and spaces.
+2024-11-28 17:20:35,029 - INFO - Removed 0 duplicate records.
+2024-11-28 17:20:35,030 - INFO - Removed 0 records with missing critical data.
+2024-11-28 17:20:35,249 - INFO - Removed 900 outliers from 'borrow_count'.
+2024-11-28 17:20:35,250 - INFO - Validated publication years between 1450 and 2024.
+2024-11-28 17:20:35,250 - INFO - No 'book_id' column found. Skipping duplicate book_id enforcement.
+2024-11-28 17:20:35,253 - INFO - Handled missing numeric values with KNN Imputation.
+2024-11-28 17:20:35,253 - INFO - Final cleaned records: 100
+2024-11-28 17:20:35,256 - INFO - Cleaned data saved to 'library_books_cleaned.csv'.
+2024-11-28 17:20:35,271 - INFO - Database setup completed.
+2024-11-28 17:20:35,273 - INFO - Populating books from 'library_books_cleaned.csv'.
+2024-11-28 17:20:35,372 - INFO - Books populated successfully.
+2024-11-28 17:20:35,372 - WARNING - Users file 'users.csv' not found. Skipping users population.
+2024-11-28 17:20:35,372 - WARNING - Borrowed books file 'borrowed_books.csv' not found. Skipping borrowed books population.
+2024-11-28 17:20:35,373 - WARNING - Ratings file 'ratings.csv' not found. Skipping ratings population.
+2024-11-28 17:20:35,564 - INFO - Book popularity calculated and updated.
+2024-11-28 17:20:35,569 - INFO - User profiles saved to 'user_profiles.csv'.
+2024-11-28 17:20:35,569 - INFO - Feature engineering completed.
+2024-11-28 17:20:35,605 - INFO - Loaded books and ratings data for recommendation engine.
+2024-11-28 17:20:35,610 - INFO - Content-Based Recommender initialized.
+2024-11-28 17:20:35,610 - WARNING - Insufficient ratings data to train the collaborative filtering model.
+2024-11-28 17:20:35,610 - INFO - Hybrid Recommender initialized.
+2024-11-28 17:20:35,611 - WARNING - Collaborative Filtering model was not trained due to insufficient data.
+2024-11-28 17:20:35,611 - INFO - Recommendation system initialized successfully.
+2024-11-28 17:27:49,762 - INFO - Database setup completed.
+2024-11-28 17:27:51,434 - INFO - Database setup completed.
+2024-11-28 17:27:51,439 - INFO - Loaded 4 ratings for user_id 1.
+2024-11-28 17:27:54,626 - INFO - Loaded 'library_books.csv' with 1000 records.
+2024-11-28 17:27:54,629 - INFO - Cleaned ISBNs by removing hyphens and spaces.
+2024-11-28 17:27:54,629 - INFO - Removed 0 duplicate records.
+2024-11-28 17:27:54,630 - INFO - Removed 0 records with missing critical data.
+2024-11-28 17:27:54,841 - INFO - Removed 909 outliers from 'borrow_count'.
+2024-11-28 17:27:54,842 - INFO - Validated publication years between 1450 and 2024.
+2024-11-28 17:27:54,842 - INFO - No 'book_id' column found. Skipping duplicate book_id enforcement.
+2024-11-28 17:27:54,845 - INFO - Handled missing numeric values with KNN Imputation.
+2024-11-28 17:27:54,845 - INFO - Final cleaned records: 91
+2024-11-28 17:27:54,847 - INFO - Cleaned data saved to 'library_books_cleaned.csv'.
+2024-11-28 17:27:54,884 - INFO - Database setup completed.
+2024-11-28 17:30:33,891 - INFO - Database setup completed.
+2024-11-28 17:30:35,283 - INFO - Database setup completed.
+2024-11-28 17:30:35,288 - INFO - Loaded 4 ratings for user_id 1.
+2024-11-28 17:30:36,440 - INFO - Loaded 'library_books.csv' with 1000 records.
+2024-11-28 17:30:36,443 - INFO - Cleaned ISBNs by removing hyphens and spaces.
+2024-11-28 17:30:36,444 - INFO - Removed 0 duplicate records.
+2024-11-28 17:30:36,445 - INFO - Removed 0 records with missing critical data.
+2024-11-28 17:30:36,656 - INFO - Removed 903 outliers from 'borrow_count'.
+2024-11-28 17:30:36,657 - INFO - Validated publication years between 1450 and 2024.
+2024-11-28 17:30:36,657 - INFO - No 'book_id' column found. Skipping duplicate book_id enforcement.
+2024-11-28 17:30:36,660 - INFO - Handled missing numeric values with KNN Imputation.
+2024-11-28 17:30:36,660 - INFO - Final cleaned records: 97
+2024-11-28 17:30:36,662 - INFO - Cleaned data saved to 'library_books_cleaned.csv'.
+2024-11-28 17:30:36,689 - INFO - Database setup completed.
+2024-11-28 17:45:49,347:WARNING:Image at path 'logo.png' not found.
+2024-11-28 17:45:49,633:WARNING:Image at path 'login_icon.png' not found.
+2024-11-28 17:45:49,634:WARNING:Image at path 'register_icon.png' not found.
+2024-11-28 20:34:46,603 - INFO - Database setup completed.
+2024-11-28 20:34:49,711 - INFO - Database setup completed.
+2024-11-28 20:34:49,717 - INFO - Loaded 4 ratings for user_id 1.
+2024-11-28 20:34:59,925 - INFO - Loaded 'library_books.csv' with 1000 records.
+2024-11-28 20:34:59,928 - INFO - Cleaned ISBNs by removing hyphens and spaces.
+2024-11-28 20:34:59,929 - INFO - Removed 0 duplicate records.
+2024-11-28 20:34:59,930 - INFO - Removed 0 records with missing critical data.
+2024-11-28 20:35:00,136 - INFO - Removed 903 outliers from 'borrow_count'.
+2024-11-28 20:35:00,136 - INFO - Validated publication years between 1450 and 2024.
+2024-11-28 20:35:00,136 - INFO - No 'book_id' column found. Skipping duplicate book_id enforcement.
+2024-11-28 20:35:00,140 - INFO - Handled missing numeric values with KNN Imputation.
+2024-11-28 20:35:00,140 - INFO - Final cleaned records: 97
+2024-11-28 20:35:00,142 - INFO - Cleaned data saved to 'library_books_cleaned.csv'.
+2024-11-28 20:35:00,153 - INFO - Database setup completed.
+2024-11-28 21:12:19,756 - INFO - Database setup completed.
+2024-11-28 21:12:20,655 - INFO - Database setup completed.
+2024-11-28 21:12:20,661 - INFO - Loaded 4 ratings for user_id 1.
+2024-11-28 21:12:23,199 - INFO - Loaded 'library_books.csv' with 1000 records.
+2024-11-28 21:12:23,202 - INFO - Cleaned ISBNs by removing hyphens and spaces.
+2024-11-28 21:12:23,203 - INFO - Removed 0 duplicate records.
+2024-11-28 21:12:23,204 - INFO - Removed 0 records with missing critical data.
+2024-11-28 21:12:23,367 - INFO - Removed 904 outliers from 'borrow_count'.
+2024-11-28 21:12:23,368 - INFO - Validated publication years between 1450 and 2024.
+2024-11-28 21:12:23,368 - INFO - No 'book_id' column found. Skipping duplicate book_id enforcement.
+2024-11-28 21:12:23,370 - INFO - Handled missing numeric values with KNN Imputation.
+2024-11-28 21:12:23,370 - INFO - Final cleaned records: 96
+2024-11-28 21:12:23,372 - INFO - Cleaned data saved to 'library_books_cleaned.csv'.
+2024-11-28 21:12:23,408 - INFO - Database setup completed.
+2024-11-28 21:15:16,248 - INFO - Database setup completed.
+2024-11-28 21:15:17,115 - INFO - Database setup completed.
+2024-11-28 21:15:17,121 - INFO - Loaded 4 ratings for user_id 1.
+2024-11-28 21:15:18,666 - INFO - Loaded 'library_books.csv' with 1000 records.
+2024-11-28 21:15:18,669 - INFO - Cleaned ISBNs by removing hyphens and spaces.
+2024-11-28 21:15:18,670 - INFO - Removed 0 duplicate records.
+2024-11-28 21:15:18,670 - INFO - Removed 0 records with missing critical data.
+2024-11-28 21:15:18,830 - INFO - Removed 902 outliers from 'borrow_count'.
+2024-11-28 21:15:18,831 - INFO - Validated publication years between 1450 and 2024.
+2024-11-28 21:15:18,831 - INFO - No 'book_id' column found. Skipping duplicate book_id enforcement.
+2024-11-28 21:15:18,834 - INFO - Handled missing numeric values with KNN Imputation.
+2024-11-28 21:15:18,834 - INFO - Final cleaned records: 98
+2024-11-28 21:15:18,836 - INFO - Cleaned data saved to 'library_books_cleaned.csv'.
+2024-11-28 21:15:18,847 - INFO - Database setup completed.
+2024-11-28 21:15:18,848 - INFO - Loaded 'library_books_cleaned.csv' with 98 records for database population.
+2024-11-28 21:15:18,868 - ERROR - Failed to populate database: (pymysql.err.IntegrityError) (1062, "Duplicate entry '9787156204925' for key 'ISBN'")
+[SQL: INSERT INTO books (title, author, genre, `ISBN`, publication_year, summary, keywords, borrow_count) VALUES (%(title)s, %(author)s, %(genre)s, %(ISBN)s, %(publication_year)s, %(summary)s, %(keywords)s, %(borrow_count)s)]
+[parameters: [{'title': 'Jane Eyre', 'author': 'Harper Lee', 'genre': 'Romance', 'ISBN': 9787156204925, 'publication_year': 1988, 'summary': '', 'keywords': '', 'borrow_count': 1}, {'title': 'The Hobbit', 'author': 'Aldous Huxley', 'genre': 'Fantasy', 'ISBN': 9788836154032, 'publication_year': 1919, 'summary': '', 'keywords': '', 'borrow_count': 1}, {'title': 'The Hobbit', 'author': 'Charlotte Brontë', 'genre': 'Adventure', 'ISBN': 9781896371583, 'publication_year': 1934, 'summary': '', 'keywords': '', 'borrow_count': 96}, {'title': 'The Alchemist', 'author': 'Paulo Coelho', 'genre': 'Adventure', 'ISBN': 9789710864767, 'publication_year': 1807, 'summary': '', 'keywords': '', 'borrow_count': 1}, {'title': 'The Alchemist', 'author': 'Harper Lee', 'genre': 'Thriller', 'ISBN': 9788615771866, 'publication_year': 1850, 'summary': '', 'keywords': '', 'borrow_count': 94}, {'title': 'The Alchemist', 'author': 'Fyodor Dostoevsky', 'genre': 'Mystery', 'ISBN': 9785800600942, 'publication_year': 1989, 'summary': '', 'keywords': '', 'borrow_count': 98}, {'title': 'Jane Eyre', 'author': 'Harper Lee', 'genre': 'Fantasy', 'ISBN': 9787950204173, 'publication_year': 1949, 'summary': '', 'keywords': '', 'borrow_count': 7}, {'title': 'The Chronicles of Narnia', 'author': 'Mark Twain', 'genre': 'Fiction', 'ISBN': 9787383604001, 'publication_year': 1859, 'summary': '', 'keywords': '', 'borrow_count': 100}  ... displaying 10 of 98 total bound parameter sets ...  {'title': 'To Kill a Mockingbird', 'author': 'J.K. Rowling', 'genre': 'Classic', 'ISBN': 9781697648204, 'publication_year': 1937, 'summary': '', 'keywords': '', 'borrow_count': 96}, {'title': 'The Chronicles of Narnia', 'author': 'Jane Austen', 'genre': 'Historical Fiction', 'ISBN': 9784558152880, 'publication_year': 1961, 'summary': '', 'keywords': '', 'borrow_count': 100}]]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-11-28 21:18:57,923 - INFO - Database setup completed.
+2024-11-28 21:18:58,971 - INFO - Database setup completed.
+2024-11-28 21:18:58,977 - INFO - Loaded 4 ratings for user_id 1.
+2024-11-28 21:19:00,836 - INFO - Loaded 'library_books.csv' with 1000 records.
+2024-11-28 21:19:00,839 - INFO - Cleaned ISBNs by removing hyphens and spaces.
+2024-11-28 21:19:00,840 - INFO - Removed 0 duplicate records.
+2024-11-28 21:19:00,841 - INFO - Removed 0 records with missing critical data.
+2024-11-28 21:19:01,001 - INFO - Removed 903 outliers from 'borrow_count'.
+2024-11-28 21:19:01,002 - INFO - Validated publication years between 1450 and 2024.
+2024-11-28 21:19:01,002 - INFO - No 'book_id' column found. Skipping duplicate book_id enforcement.
+2024-11-28 21:19:01,005 - INFO - Handled missing numeric values with KNN Imputation.
+2024-11-28 21:19:01,005 - INFO - Final cleaned records: 97
+2024-11-28 21:19:01,007 - INFO - Cleaned data saved to 'library_books_cleaned.csv'.
+2024-11-28 21:19:01,037 - INFO - Database setup completed.
+2024-11-28 21:19:01,039 - INFO - Loaded 'library_books_cleaned.csv' with 97 records for database population.
+2024-11-28 21:19:01,042 - INFO - Found 143 existing ISBNs in the database.
+2024-11-28 21:19:01,044 - INFO - 0 new books to insert into the database.
+2024-11-28 21:19:01,045 - INFO - No new books to populate.
+2024-11-28 21:19:01,050 - INFO - Book popularity calculated and updated.
+2024-11-28 21:19:01,054 - INFO - User profiles saved to 'user_profiles.csv'.
+2024-11-28 21:19:01,054 - INFO - Feature engineering completed.
+2024-11-28 21:19:01,066 - INFO - Loaded books and ratings data for recommendation engine.
+2024-11-28 21:19:01,072 - INFO - Content-Based Recommender initialized.
+2024-11-28 21:19:01,072 - WARNING - Insufficient ratings data to train the collaborative filtering model.
+2024-11-28 21:19:01,072 - INFO - Hybrid Recommender initialized.
+2024-11-28 21:19:01,072 - WARNING - Collaborative Filtering model was not trained due to insufficient data.
+2024-11-28 21:19:01,072 - INFO - Recommendation system initialized successfully.
+2024-11-28 21:19:13,772 - INFO - Book popularity chart generated.
+2024-11-28 21:19:37,811 - WARNING - 'The hobbit' not found in the database.
+2024-11-28 21:19:37,811 - WARNING - Collaborative Filtering model is not trained.
+2024-11-28 21:19:37,811 - INFO - Hybrid Recommendations for user_id 1 based on 'The hobbit': []
+2024-11-28 21:19:37,812 - INFO - 'The hobbit' not found in the database or no similar books available.
+2024-11-28 21:19:43,012 - INFO - Content-Based Recommendations for 'The Hobbit': ['The Hobbit', 'To Kill a Mockingbird', 'War and Peace']
+2024-11-28 21:19:43,012 - WARNING - Collaborative Filtering model is not trained.
+2024-11-28 21:19:43,013 - INFO - Hybrid Recommendations for user_id 1 based on 'The Hobbit': ['The Hobbit', 'To Kill a Mockingbird', 'War and Peace']
+2024-11-28 21:19:45,948 - INFO - Popular Recommendations for new users: ['Jane Eyre', 'Gone with the Wind', 'Jane Eyre', 'The Great Gatsby', 'The Lord of the Rings']
+2024-11-28 21:19:52,230 - INFO - Database setup completed.
+2024-11-28 21:19:52,260 - INFO - Database setup completed.
+2024-11-28 21:19:52,769 - INFO - Updated rating for book_id 197 by user_id 1.
+2024-11-28 21:19:52,785 - INFO - Database setup completed.
+2024-11-28 21:19:52,789 - INFO - Loaded 4 ratings for user_id 1.
+2024-11-28 23:26:08,119 - INFO - Database setup completed.
+2024-11-28 23:26:11,251 - INFO - Database setup completed.
+2024-11-28 23:26:11,257 - INFO - Loaded 4 ratings for user_id 1.
+2024-11-28 23:26:15,761 - INFO - Loaded 'library_books.csv' with 1000 records.
+2024-11-28 23:26:15,764 - INFO - Cleaned ISBNs by removing hyphens and spaces.
+2024-11-28 23:26:15,765 - INFO - Removed 0 duplicate records.
+2024-11-28 23:26:15,765 - INFO - Removed 0 records with missing critical data.
+2024-11-28 23:26:15,927 - INFO - Removed 904 outliers from 'borrow_count'.
+2024-11-28 23:26:15,928 - INFO - Validated publication years between 1450 and 2024.
+2024-11-28 23:26:15,928 - INFO - No 'book_id' column found. Skipping duplicate book_id enforcement.
+2024-11-28 23:26:15,930 - INFO - Handled missing numeric values with KNN Imputation.
+2024-11-28 23:26:15,930 - INFO - Final cleaned records: 96
+2024-11-28 23:26:15,932 - INFO - Cleaned data saved to 'library_books_cleaned.csv'.
+2024-11-28 23:26:15,969 - INFO - Database setup completed.
+2024-11-28 23:26:15,971 - INFO - Loaded 'library_books_cleaned.csv' with 96 records for database population.
+2024-11-28 23:26:15,974 - INFO - Found 143 existing ISBNs in the database.
+2024-11-28 23:26:15,975 - INFO - 0 new books to insert into the database.
+2024-11-28 23:26:15,975 - INFO - No new books to populate.
+2024-11-28 23:26:15,980 - INFO - Book popularity calculated and updated.
+2024-11-28 23:26:15,985 - INFO - User profiles saved to 'user_profiles.csv'.
+2024-11-28 23:26:15,986 - INFO - Feature engineering completed.
+2024-11-28 23:26:16,013 - INFO - Loaded books and ratings data for recommendation engine.
+2024-11-28 23:26:16,018 - INFO - Content-Based Recommender initialized.
+2024-11-28 23:26:16,018 - WARNING - Insufficient ratings data to train the collaborative filtering model.
+2024-11-28 23:26:16,018 - INFO - Hybrid Recommender initialized.
+2024-11-28 23:26:16,018 - WARNING - Collaborative Filtering model was not trained due to insufficient data.
+2024-11-28 23:26:16,019 - INFO - Recommendation system initialized successfully.
+2024-11-28 23:26:40,453 - WARNING - 'harry poter' not found in the database.
+2024-11-28 23:26:40,453 - WARNING - Collaborative Filtering model is not trained.
+2024-11-28 23:26:40,453 - INFO - Hybrid Recommendations for user_id 1 based on 'harry poter': []
+2024-11-28 23:26:40,454 - INFO - 'harry poter' not found in the database or no similar books available.
+2024-11-28 23:26:50,325 - INFO - Popular Recommendations for new users: ['Jane Eyre', 'Gone with the Wind', 'Jane Eyre', 'The Great Gatsby', 'The Lord of the Rings']
+2024-11-28 23:27:11,602 - INFO - Database setup completed.
+2024-11-28 23:27:11,632 - INFO - Database setup completed.
+2024-11-28 23:27:13,607 - INFO - Updated rating for book_id 196 by user_id 1.
+2024-11-28 23:27:13,651 - INFO - Database setup completed.
+2024-11-28 23:27:13,655 - INFO - Loaded 4 ratings for user_id 1.
+2024-11-29 08:51:55,216 - ERROR - Database setup failed: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-11-29 08:52:03,319 - INFO - Database setup completed.
+2024-11-29 08:52:06,452 - INFO - Database setup completed.
+2024-11-29 08:52:06,469 - INFO - Loaded 4 ratings for user_id 1.
+2024-11-29 08:52:15,848 - INFO - Loaded 'library_books.csv' with 1000 records.
+2024-11-29 08:52:15,866 - INFO - Cleaned ISBNs by removing hyphens and spaces.
+2024-11-29 08:52:15,869 - INFO - Removed 0 duplicate records.
+2024-11-29 08:52:15,871 - INFO - Removed 0 records with missing critical data.
+2024-11-29 08:52:16,180 - INFO - Removed 903 outliers from 'borrow_count'.
+2024-11-29 08:52:16,182 - INFO - Validated publication years between 1450 and 2024.
+2024-11-29 08:52:16,183 - INFO - No 'book_id' column found. Skipping duplicate book_id enforcement.
+2024-11-29 08:52:16,189 - INFO - Handled missing numeric values with KNN Imputation.
+2024-11-29 08:52:16,189 - INFO - Final cleaned records: 97
+2024-11-29 08:52:16,194 - INFO - Cleaned data saved to 'library_books_cleaned.csv'.
+2024-11-29 08:52:16,224 - INFO - Database setup completed.
+2024-11-29 08:52:16,227 - INFO - Loaded 'library_books_cleaned.csv' with 97 records for database population.
+2024-11-29 08:52:16,235 - INFO - Found 143 existing ISBNs in the database.
+2024-11-29 08:52:16,239 - INFO - 0 new books to insert into the database.
+2024-11-29 08:52:16,240 - INFO - No new books to populate.
+2024-11-29 08:52:16,254 - INFO - Book popularity calculated and updated.
+2024-11-29 08:52:16,264 - INFO - User profiles saved to 'user_profiles.csv'.
+2024-11-29 08:52:16,264 - INFO - Feature engineering completed.
+2024-11-29 08:52:16,312 - INFO - Loaded books and ratings data for recommendation engine.
+2024-11-29 08:52:16,344 - INFO - Content-Based Recommender initialized.
+2024-11-29 08:52:16,347 - WARNING - Insufficient ratings data to train the collaborative filtering model.
+2024-11-29 08:52:16,347 - INFO - Hybrid Recommender initialized.
+2024-11-29 08:52:16,348 - WARNING - Collaborative Filtering model was not trained due to insufficient data.
+2024-11-29 08:52:16,348 - INFO - Recommendation system initialized successfully.
+2024-11-29 08:52:32,860 - INFO - Content-Based Recommendations for 'The Hobbit': ['The Hobbit', 'To Kill a Mockingbird', 'War and Peace', 'The Lord of the Rings', 'The Hobbit', 'Moby Dick']
+2024-11-29 08:52:32,860 - WARNING - Collaborative Filtering model is not trained.
+2024-11-29 08:52:32,860 - INFO - Hybrid Recommendations for user_id 1 based on 'The Hobbit': ['The Hobbit', 'To Kill a Mockingbird', 'War and Peace', 'The Lord of the Rings', 'Moby Dick']
+2024-11-29 08:52:54,214 - INFO - Popular Recommendations for new users: ['Jane Eyre', 'Gone with the Wind', 'Jane Eyre', 'The Great Gatsby', 'The Lord of the Rings']
+2024-11-29 08:53:01,747 - INFO - Popular Recommendations for new users: ['Jane Eyre', 'Gone with the Wind', 'Jane Eyre', 'The Great Gatsby', 'The Lord of the Rings', 'War and Peace', 'The Alchemist', 'Jane Eyre']
+2024-11-29 08:53:12,859 - INFO - Database setup completed.
+2024-11-29 08:53:12,923 - INFO - Database setup completed.
+2024-11-29 08:53:14,411 - INFO - Updated rating for book_id 197 by user_id 1.
+2024-11-29 08:53:14,464 - INFO - Database setup completed.
+2024-11-29 08:53:14,470 - INFO - Loaded 4 ratings for user_id 1.
+2024-11-29 08:53:21,888 - INFO - Book popularity chart generated.
+2024-12-01 18:34:09,733 - INFO - Database setup completed.
+2024-12-01 18:34:14,293 - INFO - Database setup completed.
+2024-12-01 18:34:15,841 - INFO - Database setup completed.
+2024-12-01 18:34:15,851 - INFO - Loaded 4 ratings for user_id 1.

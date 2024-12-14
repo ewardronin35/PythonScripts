@@ -1,0 +1,98 @@
+title,author,genre,ISBN,publication_year,borrow_count
+Jane Eyre,Harper Lee,Romance,9787156204925,1988.0,1.0
+The Hobbit,Aldous Huxley,Fantasy,9788836154032,1919.0,1.0
+The Alchemist,Ernest Hemingway,Fiction,9784989319207,1907.0,6.0
+The Alchemist,Paulo Coelho,Adventure,9789710864767,1807.0,1.0
+The Catcher in the Rye,J.R.R. Tolkien,Dystopian,9783873070840,2019.0,9.0
+The Alchemist,Fyodor Dostoevsky,Mystery,9785800600942,1989.0,98.0
+Jane Eyre,Harper Lee,Fantasy,9787950204173,1949.0,7.0
+The Chronicles of Narnia,Mark Twain,Fiction,9787383604001,1859.0,100.0
+Gone with the Wind,Mark Twain,Mystery,9783631578420,1924.0,3.0
+War and Peace,Jane Austen,Fantasy,9784645477968,1809.0,0.0
+Animal Farm,Victor Hugo,Fiction,9786605565127,1825.0,100.0
+Pride and Prejudice,F. Scott Fitzgerald,Drama,9788196925729,1999.0,97.0
+The Chronicles of Narnia,Mark Twain,Classic,9788657079294,1877.0,99.0
+The Alchemist,Gabriel García Márquez,Drama,9783352605216,2020.0,100.0
+The Alchemist,J.R.R. Tolkien,Thriller,9781321245641,2021.0,7.0
+1984,Ernest Hemingway,Fiction,9783949894399,1843.0,97.0
+The Hobbit,Aldous Huxley,Classic,9788717089353,1906.0,7.0
+The Lord of the Rings,Harper Lee,Mystery,9783188778191,1830.0,7.0
+Pride and Prejudice,Charlotte Brontë,Fantasy,9787485046482,1894.0,1.0
+Pride and Prejudice,Paulo Coelho,Classic,9789340969742,1861.0,3.0
+Animal Farm,J.R.R. Tolkien,Historical Fiction,9784859684021,1976.0,97.0
+Gone with the Wind,F. Scott Fitzgerald,Romance,9789188000092,1972.0,1.0
+Les Misérables,Leo Tolstoy,Adventure,9787190314762,1967.0,1.0
+To Kill a Mockingbird,Gabriel García Márquez,Fiction,9785396596744,1851.0,7.0
+The Alchemist,Ernest Hemingway,Fantasy,9784542247682,1994.0,97.0
+Crime and Punishment,Victor Hugo,Adventure,9788500028857,1968.0,98.0
+To Kill a Mockingbird,J.D. Salinger,Dystopian,9785434330621,1992.0,3.0
+The Odyssey,F. Scott Fitzgerald,Adventure,9787263895582,2008.0,9.0
+Animal Farm,J.R.R. Tolkien,Fantasy,9785288598985,1913.0,9.0
+Moby Dick,Herman Melville,Mystery,9787049483139,1809.0,3.0
+War and Peace,Leo Tolstoy,Romance,9786174341266,1805.0,99.0
+The Odyssey,J.R.R. Tolkien,Drama,9786445973915,2021.0,2.0
+Jane Eyre,J.K. Rowling,Fantasy,9789680165809,1848.0,97.0
+To Kill a Mockingbird,Fyodor Dostoevsky,Mystery,9783528311624,2017.0,3.0
+1984,Homer,Historical Fiction,9789467317227,1848.0,100.0
+The Chronicles of Narnia,Charlotte Brontë,Classic,9787570118478,1983.0,98.0
+Pride and Prejudice,Gabriel García Márquez,Thriller,9785833875009,1980.0,6.0
+Les Misérables,Charlotte Brontë,Adventure,9781708091543,1933.0,98.0
+1984,Fyodor Dostoevsky,Historical Fiction,9782991480408,1986.0,99.0
+The Lord of the Rings,Victor Hugo,Fiction,9787625436910,1826.0,3.0
+The Hobbit,C.S. Lewis,Historical Fiction,9784610121716,1914.0,98.0
+Moby Dick,Homer,Thriller,9786651387368,1831.0,97.0
+Brave New World,J.D. Salinger,Historical Fiction,9788549241100,1824.0,0.0
+To Kill a Mockingbird,Harper Lee,Dystopian,9784399637036,1822.0,99.0
+1984,J.D. Salinger,Classic,9787183335845,1829.0,3.0
+War and Peace,Paulo Coelho,Mystery,9783416415960,1916.0,100.0
+The Chronicles of Narnia,Victor Hugo,Fiction,9787686585692,1990.0,6.0
+Les Misérables,Jane Austen,Drama,9785538175430,1839.0,99.0
+Pride and Prejudice,Fyodor Dostoevsky,Adventure,9781618157962,1999.0,9.0
+The Lord of the Rings,Gabriel García Márquez,Fantasy,9783185163520,1905.0,97.0
+The Alchemist,Harper Lee,Fiction,9782341451903,2009.0,98.0
+The Hobbit,Paulo Coelho,Thriller,9784296871890,1863.0,3.0
+Gone with the Wind,Mark Twain,Drama,9781886660919,1830.0,2.0
+The Odyssey,Charlotte Brontë,Romance,9784344293935,1906.0,0.0
+War and Peace,Gabriel García Márquez,Dystopian,9788769761256,1805.0,7.0
+Moby Dick,Paulo Coelho,Romance,9782631445199,1873.0,2.0
+The Catcher in the Rye,Harper Lee,Drama,9787138829981,1994.0,0.0
+The Odyssey,Herman Melville,Drama,9789620458373,1924.0,8.0
+Les Misérables,Margaret Mitchell,Classic,9781707122115,1894.0,97.0
+The Alchemist,C.S. Lewis,Romance,9783743364397,1889.0,98.0
+Brave New World,J.R.R. Tolkien,Classic,9786318831256,2022.0,6.0
+To Kill a Mockingbird,Paulo Coelho,Mystery,9781978851901,1803.0,6.0
+Les Misérables,Margaret Mitchell,Dystopian,9789526973760,1814.0,8.0
+The Chronicles of Narnia,Ernest Hemingway,Romance,9784422217062,2015.0,3.0
+War and Peace,Ernest Hemingway,Classic,9789245985843,1910.0,99.0
+The Alchemist,Homer,Dystopian,9785472009653,1928.0,99.0
+Pride and Prejudice,Charlotte Brontë,Dystopian,9786901233156,1899.0,3.0
+To Kill a Mockingbird,Aldous Huxley,Drama,9786006545582,1916.0,8.0
+The Chronicles of Narnia,Margaret Mitchell,Thriller,9788484318887,1865.0,1.0
+Gone with the Wind,Jane Austen,Mystery,9783036942687,1931.0,0.0
+The Chronicles of Narnia,Gabriel García Márquez,Drama,9788499133017,1932.0,8.0
+The Lord of the Rings,Paulo Coelho,Dystopian,9785205488128,1998.0,99.0
+Harry Potter and the Sorcerer's Stone,J.D. Salinger,Drama,9786294824631,1961.0,99.0
+The Lord of the Rings,Leo Tolstoy,Fiction,9783659578490,1913.0,6.0
+Jane Eyre,Jane Austen,Fiction,9784504397294,1874.0,8.0
+War and Peace,Fyodor Dostoevsky,Historical Fiction,9787146100934,1954.0,100.0
+The Odyssey,J.R.R. Tolkien,Fiction,9785638526819,1858.0,0.0
+Moby Dick,C.S. Lewis,Fantasy,9786150093283,1947.0,2.0
+To Kill a Mockingbird,F. Scott Fitzgerald,Thriller,9781161610189,1933.0,2.0
+Jane Eyre,Gabriel García Márquez,Historical Fiction,9781557033369,1878.0,8.0
+War and Peace,Mark Twain,Historical Fiction,9789765532600,1991.0,6.0
+The Great Gatsby,Homer,Romance,9785560044695,1830.0,99.0
+Wuthering Heights,Ernest Hemingway,Romance,9782863254375,1944.0,7.0
+The Odyssey,J.K. Rowling,Romance,9785956020511,1911.0,7.0
+Crime and Punishment,Homer,Drama,9787920908580,1807.0,0.0
+1984,George Orwell,Fiction,9781257877058,1917.0,1.0
+War and Peace,C.S. Lewis,Dystopian,9788206461871,1882.0,9.0
+The Great Gatsby,F. Scott Fitzgerald,Adventure,9784977194851,1929.0,1.0
+The Great Gatsby,Herman Melville,Fiction,9785636193706,1827.0,3.0
+The Alchemist,F. Scott Fitzgerald,Mystery,9786990930686,1834.0,3.0
+The Great Gatsby,Mark Twain,Drama,9787761968972,1837.0,3.0
+The Hobbit,F. Scott Fitzgerald,Dystopian,9787156501659,1815.0,98.0
+The Catcher in the Rye,Gabriel García Márquez,Historical Fiction,9781311149362,1979.0,2.0
+Harry Potter and the Sorcerer's Stone,F. Scott Fitzgerald,Classic,9782082713857,1932.0,0.0
+The Great Gatsby,Herman Melville,Romance,9785656214594,1887.0,8.0
+Gone with the Wind,Leo Tolstoy,Fantasy,9783262545163,1954.0,6.0
+The Chronicles of Narnia,Jane Austen,Historical Fiction,9784558152880,1961.0,100.0
